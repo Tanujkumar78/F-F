@@ -1,0 +1,130 @@
+/* Existing styles (copy from your original code) */
+.about_btn {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.active-link {
+  background-color: blue;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+
+
+
+
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: relative; /* Add this for absolute positioning of the mobile menu */
+}
+
+.logo h5 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.header_container {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+.logout_btn:hover {
+  cursor: pointer;
+}
+
+.about_btn,
+.contact_btn {
+  font-size: large;
+}
+
+.about_btn:hover,
+.contact_btn:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.FlatBee {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  color: #222;
+  text-shadow: 2px 2px 0 rgb(148, 121, 143), 4px 4px 5px rgba(245, 235, 235, 0.4);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: black;
+  -webkit-text-stroke: 1px rgb(176, 122, 20);
+  font-weight: bold;
+}
+
+.explore-btn {
+  padding: 7px 25px;
+  margin-bottom: 10px;
+  font-size: 1rem;
+  background: #ff6f61;
+  color: #fff;
+  border: none;
+  border-radius: 30px;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.FlatBee:hover {
+  cursor: pointer;
+}
+
+/* -------------------- Responsive CSS -------------------- */
+.hamburger-menu {
+  display: none; /* Hidden by default on desktop */
+  cursor: pointer;
+}
+
+.hamburger-menu div {
+  width: 25px;
+  height: 3px;
+  background-color: #333;
+  margin: 5px 0;
+  transition: 0.4s;
+}
+
+@media (max-width: 768px) {
+  /* Show hamburger menu on small screens */
+  .hamburger-menu {
+    display: block;
+  }
+
+  /* Hide the regular nav links on small screens */
+  .header_container {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 60px; /* Adjust this value to be below the header */
+    left: 0;
+    width: 100%;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 15px 0;
+    z-index: 10; /* Ensure it's on top of other content */
+    text-align: center;
+  }
+
+  /* When the 'open' class is applied, display the menu */
+  .header_container.open {
+    display: flex;
+  }
+
+  /* Style the menu items for mobile view */
+  .header_container p,
+  .logout_btn {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}

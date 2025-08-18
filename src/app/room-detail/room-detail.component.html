@@ -1,0 +1,80 @@
+<!-- Notification Toast -->
+<div class="notification" [ngClass]="{'show': showNotification, 'success': notificationType === 'success', 'error': notificationType === 'error'}">
+  {{notificationMessage}}
+</div>
+
+<div class="room-detail-container">
+  <button class="btn1" (click)="aboutt()">Back</button>
+  <h2>{{ room?.name }}</h2>
+
+  <!-- Room Meta -->
+  <div class="room-meta">
+    <p><strong>Type:</strong> {{ room?.type }}</p>
+    <p><strong>Size:</strong> {{ room?.size }}</p>
+    <p><strong>Monthly:</strong> ₹{{ room?.priceDetails?.monthly || room?.price }}</p>
+    <p><strong>Yearly:</strong> ₹{{ room?.priceDetails?.yearly }}</p>
+    <p><strong>Status:</strong> {{ room?.isAvailable ? 'Available' : 'Booked' }}</p>
+  </div>
+
+  <!-- Image Gallery -->
+  <div class="image-gallery" *ngIf="room?.images?.length">
+    <h3>Gallery</h3>
+    <div class="image-grid">
+      <img *ngFor="let img of room.images" [src]="img.url" alt="Room Image" class="gallery-image" />
+    </div>
+  </div>
+
+  <!-- Description Points -->
+  <div class="room-description" *ngIf="room?.descriptionPoints?.length">
+    <h3>Description</h3>
+    <ul>
+      <li *ngFor="let point of room.descriptionPoints">{{ point }}</li>
+    </ul>
+  </div>
+
+  <!-- Facilities -->
+  <div class="room-facilities" *ngIf="room?.facilities?.length">
+    <h3>Facilities</h3>
+    <ul>
+      <li *ngFor="let item of room.facilities">{{ item }}</li>
+    </ul>
+  </div>
+
+  <!-- Contact Broker -->
+  <div class="pop" *ngIf="room?.contact">
+    <div class="contact-card">
+      <h2>Contact Broker</h2>
+      <p><strong>Name:</strong> {{ room.contact.brokerName }}</p>
+      <p><strong>Mobile:</strong> {{ room.contact.mobileNumber }}</p>
+      <p><strong>Address:</strong> {{ room.contact.address }}</p>
+    </div>
+  </div>
+
+  <!-- Booking Section -->
+  <div class="booking-section" *ngIf="room?.id">
+    <!-- If available and form is not yet shown -->
+    <div *ngIf="room.isAvailable && !showBookingForm">
+      <button class="btn-book" (click)="startBooking()">Book Now</button>
+    </div>
+
+    <!-- Booking Form -->
+    <div *ngIf="showBookingForm">
+      <h3>Enter Your Details</h3>
+      <form (ngSubmit)="confirmBooking()">
+        <label>Name:</label>
+        <input type="text" [(ngModel)]="bookingDetails.name" name="name" required>
+
+        <label>Email:</label>
+        <input type="email" [(ngModel)]="bookingDetails.email" name="email" required>
+
+        <button type="submit">Confirm Booking</button>
+        <button type="button" (click)="cancelBooking()">Cancel</button>
+      </form>
+    </div>
+
+    <!-- If already booked -->
+    <div *ngIf="!room.isAvailable">
+      <p class="booked-status">✅ This room is already booked</p>
+    </div>
+  </div>
+</div>

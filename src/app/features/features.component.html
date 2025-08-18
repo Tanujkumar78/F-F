@@ -1,0 +1,28 @@
+<div class="feature-section">
+  <!-- Navbar at the top -->
+  <div class="head">
+    <app-header></app-header>
+  </div>
+  
+  <!-- Back Button below navbar -->
+  <div class="back-button-container">
+    <button class="btn1" (click)="cus()">Back</button>
+  </div>
+  
+  <h2>Our Features</h2>
+  <div class="feature-grid">
+    <!-- Dynamic cards from the array -->
+    <div class="feature-card" *ngFor="let item of features">
+      <img [src]="item.icon" alt="Feature Icon" />
+      <h3>{{ item.title }}</h3>
+      <p>{{ item.description }}</p>
+    </div>
+
+    <!-- Static extra card -->
+    <div class="feature-card">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAACjCAMAAADciXncAAAAtFBMVEX///8IBysAACYAACMAAB0AACgAABfX19qZmaEAAC0AABvw8PKtrbcAACLt7fBbWm4yMk+MjJvm5ur5+foAACoAABW+vsfT09nh4eViYnWqqrW3t8Dj4+jNzdSHh5aVlaEAADFJSV4qKUVqanwMCjUgHz00M1F1dYU+PVmgn6skIz4REDIXFjVTU2g9PVSUlKIAAA58e4skIkQWFjpFRF2IiJcUEzktLEwfHzodHUA2Nk68u79EpQskAAAJu0lEQVR4nO2da3eiOhSGIRcd1IgIgoiogK2iVY/VOqed//+/DuEiVy9jZ3VOSZ5Pjt2yhnft7EsSgiBwOBwOh8PhcDgcDofD4XA4HA6Hw+FwOBwOh8PhcDicP8LQ1+81HY+se027HUt97P/zLbBPjX82evsOy+FOagyO1j2mfX/eGJj3WH5TfrREkZy8m7oZuw+CA1PN7PRvmPZ9BwBRQ80/9X/8//EDiaKI4drx+5eHVFv33EAIMTQVt0rzsqna3G81SC0HdVeNitGamyO7rJzaNaz9K0GRZhQNILyZ6sOyd6pDe+pILYBDu0b9VQuFA0/OYmedpaOC+XvZlUjsZqjVgjgyhYetqYzscaKyOrY7O2/7AoGWXK/2qmEYCwcIQkSbv/eel88/5xIM/gVjLwPwZWF3HAlqGVM8e31eLpfPr3NM/xl7GQ5t6q7a2tsAlDoJxiAEZ74hyJ3QCqXf2cxQLE7GFODzVxpsHbwtqL1qWLJUfe+KkKTBKwOGBD/Jo2E8GNv2ZLkGJFUuaxp8Lx7fjLZJGFCtE3zo64rcA3SUZZ2OIPK02XfyArTtqbeV6OA9m4oatZU+vKkdqNuWYe1VE0PVAtpDfWo+nySAGgEISPOfmzerWVWStIe27y3fZzRDNFqB7ey0DBSLEysLquFEtZh+09YDbGN8sykKTS1qmyt9WVBNLKj2eVhQrehrFxnuOve15Cyodp+v9fXFrIGWO+OOppyrFqLqk6C+xbTWdU1/eMu8LbNSeQT32tHH7eIQVGm2lE9BRaIlPQKCP/eW0S2bdpuWHV2JIV/rvuOtvJ+OdNs2ms2mYdvWaLqQP2YtggvFLELvjjnxOzq1HAamujVSFht3MAmvxJKvdXsQEIil9dPK7fV67uppLQV9emUXQBv4wPte/nV7H4Hpvy9rCQTftJTwSkz5Wi/sqLAWd5c4+FQlWEpgmZhGlgyphvOqfQaGVBO5ar8L97VH4L72CNzXHoH72iNw1R7h8yMUIHBe92NItc/5GnSVjvIBmVPtU74GTToD0vcQa6p9xtcam2jqexi1VAyp9glfg3IyRylDxlR73NeQeV5koSugTKn2sK8hp5tcRn0HjKn2qK9B8yyaoDRExlR70NeSRECxXpibX3vM19JEIAjGe/xLrtp1MolAaDtEZE61R0ZoJhEI6gQmXzOk2gO+lk0Egg/PW4sYUq3S166us2QTgWBL6c8YUq3C1wBYS5cdL5sIhOGWpH9hSLWyr8HeVLc8csHfsolAUL2MaCypVvI10KM3rO6q3S2bCILyNisaS6qVfA3Ej0vpT7AsWi4RCFZ+ZZ4h1Yq+hl8TXfQVKYqWSwRC8yPvjgyrBs6qCcNNQbZcIhDa28KfGVKtNEJx+kDjWCZaRpVcIhDU/UBkVrVSNoBO6lDdPUojVz4RCCNJY1e1cuWB9pkdfYp4LkhyiUDQyzmWIdXKVS5eZ/acqr4UpdKGnNse3y0GNbZUq+iowCx7y1EFAje5fcxtrywaS6pVde8o9/y1fSSFRBAM3Ko9lAypVtm9g2nWangcbHIxTdAr+y2GVKuelYQfV04FaMsVvRZbql2YlSTe5adYFqhSNK6aiPH00o9G1bvp2VJNG4Uf28t8rAKSUf0buzqoUdV2oUF3E6jWqrlq2A8/qk4hWJFtZWjruhWVWqxadKVQNVhz1WDkIapZVAPsK55sVBetS6KJKEq84yMIckyNVfMDryCxOPtijMfEL/9CubKShaOnz+i0Gz7cfLTv+9Khhw95kWo/SnqA91Jos64sw+BTpJS9wiLojb/2Tr4Sfa2dZ4asdXHmRyRyvroVhhczARV5qaYXLTQTtaIZuAU+RW5RnM8OI9U+Z94vTu7mgLHT+sF1yKLGB7B1qVIkCkfdioofw9yhdvury/MgKmHURXAdoNRYtXCTI4qKU2FXUfKDj0wuHDWurckDN4qCtPDT1nefC/gd2dFj6zbRZ7uquyTppJH9dNXVEktjpol4VePCg075UCeJq4TnKlXILjbtF8vgAnGNK/gov/ZQQ8LuE0cBKazeSmAQhTZVvlzeUsApEkqlGQNN/tYNfQnqIrhHGCe8cUUWDeTY0nil7q6lTzFNt8ZTEPzg3Sejfk86Ej7H8bBmqJDt8KaPnEsTHYmRG0eyHaA5pNYDlG6lCu4Sxlm0v60MXRgNGtdjWlpqhNEP1nuAClH7CV7j6qrTuCHOJc5zv7RHwy/237ufr6FJj9IZJH26d8unqtGSQKb+BGlnW2dozgPbuNk2KhPCTcgivliH7v34p+a5gGKf6MRHEon0G1G/WrRkg1YYJcnxr93L1xH2jVhKQtEb/G3ZwCHpBCbhpRhwtcDZ6AM9ZJOcUrq4UZiVRZslTacu4eurW3VCoW07mSSHMl9auLsk2ksiWr9HZztWF1Zp6kb3g9ByIbn5rol+Y5ACEvdjgrqnCThe3mMA/Z0e5DdPolN7f2nbfBm4Om/bUmhEhE79q46E8AFP4iQrJOpEu7MAIe65oLWQRhur2he4KeqSpoB0s7Lqn+7JCRg553k0fUVnTwYVy1r1JSy0xEa6tc9wblcgUJqc7fV5uDdwUX35uqIfqGzES7fNT1rXuyvc6qUH6OorakzMGq9MVRKtdJJjuk1Bd8CV6AbXi1SiTvg4MtnceqlL/fDXdEi2nLTc6k7fSWmNNAKgTdoBqKNQXrKt8Xr7RfwWvXfYyzREhqdVvPYAA/RzmnkaeR/urkdbRsrbAqMXELqRkolO9sJFBd2g5viZpsk4DqhDwiN7wzOiE9YbGMiZoaYa+0MjzaeANJajrD4j2liIGpJZHJ4RNu0kRUzcrDMJ/Z3zEr72BkPgmnq2+B964R8AXLDRslfTjHpQQMxcjd/W91tAyHzj52JXe+RG5ocdO31UFeoChmUacSc571G7lvfWzDuUbYaNF0ZzJmbUrmJtw5kiMHidXovvqu1F56oDyWM3pKUMvajaAMAZXaz1jX30pLKGTj7bozNBtXow1q1X6W+qYUbpIahCvFrvg/ktxm+HaIoNoNeJXUiP/Y6pRfOWgBz/9KtyvjWqvYGxbmQlZ14aqhoTR4v6LIDmCmvd+k1scx3NsWHSmMkdmj/7trIk8ZsdAewpNd6x/DBt3UTxCgImmuv5yuadRLNHWpBhFTbbztuo9mIF4lk2AEHyOhJMpOOO1a7zLoypA/JrL4AcPIvHsxt0dXOWvFIVQ0SeJ0NeoN1Dv7PYrluDAXiSFYbWoD6NOrR//fqlG3xkcjgcDofD4XA4HA6Hw+FwOBwOh8PhcDgcDofD4XA+wX/tt7NY2MtaywAAAABJRU5ErkJggg==" alt="Secure Booking Icon" />
+      <h3>Secure Booking</h3>
+      <p>Book your room confidently with end-to-end encryption and secure payment methods.</p>
+    </div>
+  </div>
+</div>

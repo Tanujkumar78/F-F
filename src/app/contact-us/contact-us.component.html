@@ -1,0 +1,51 @@
+<!-- Background Section -->
+<div class="jk">
+  <div class="hello">
+
+
+    <!-- Transparent Navbar - Below back button -->
+    <div class="head">
+      <app-header></app-header>
+    </div>
+
+        <!-- Back Button - At the top -->
+    <div class="back-button">
+      <button class="btn1" (click)="cus()">Back</button>
+    </div>
+
+    <!-- Single Container - Either Contact Card OR Form -->
+    <div class="contact-layout">
+
+      <!-- Contact Card - Show when form is NOT visible -->
+      <div *ngIf="!showForm" class="contact-card">
+        <h2>📇 Contact Us</h2>
+        <div class="b">
+          <p>📞 +91 9573697531</p>
+          <p>📧 tanukutanujkumar&#64;gmail.com</p>
+          <p>📍 123 Main Street, Hyderabad, India</p>
+          <p>🕒 Mon – Fri: 9:00 AM – 6:00 PM</p>
+          <p>
+            🔗 
+            <a href="https://www.linkedin.com/in-tanuj-kumar-tanuku" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
+            <a href="https://www.instagram.com/tanuj_tanuku" target="_blank" rel="noopener noreferrer">Instagram</a> |
+            <a href="https://www.facebook.com/profile.php?id=61577205571468" target="_blank" rel="noopener noreferrer">Facebook</a>
+          </p>
+        </div>
+        <button class="message-btn" (click)="toggleForm()">📨 Send Message</button>
+      </div>
+
+      <!-- Message Form - Show when form IS visible (replaces contact card) -->
+      <div *ngIf="showForm" class="message-form">
+        <h3>✉️ Send Us a Message</h3>
+        <form (ngSubmit)="submitMessage()" #msgForm="ngForm">
+          <input type="text" name="name" [(ngModel)]="contact.name" placeholder="Your Name" required>
+          <input type="email" name="email" [(ngModel)]="contact.email" placeholder="Your Email" required>
+          <textarea name="message" [(ngModel)]="contact.message" placeholder="Your Message" required></textarea>
+          <button type="submit" class="message-btn">Submit</button>
+        </form>
+      </div>
+
+    </div>
+
+  </div>
+</div>

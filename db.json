@@ -1,0 +1,4010 @@
+{
+  "Rooms": [
+    {
+      "id": "1",
+      "name": "Deluxe Room",
+      "type": "Non-AC",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "190 sqft",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-vgGrms-mLPjevI6_gkw6X4CXbs4IUcYHhw&s",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/15/a5/f6/15a5f6114d38c8feae8632837a43fcd1.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/ef/90/57/ef90573f00ecc1d10a068ebb13ec3f4d.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/f6/b9/38/f6b938104c12937fa5da81e4580949ca.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Suresh Nair",
+        "mobileNumber": "+91 92109 56579",
+        "address": "House No. 45, Lotus Colony, Sector 15, Gurgaon, Haryana, 122001"
+      },
+      "bookingDetails": {
+        "name": "Tanujkumar",
+        "email": "repakasainavatej@gmail.com"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Standard Room",
+      "type": "AC",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "200 sqft",
+      "image": "https://i.pinimg.com/736x/34/a8/42/34a8420db2496cf8bfa449eb1e4e1566.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/1d/78/29/1d7829f70ff74da5886d99710630b650.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/87/87/2d/87872d1175d41dc60de5cf8d50065e82.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/8a/17/ad/8a17ad0682bbf403c6221946f697d4d5.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Ajay Dubey",
+        "mobileNumber": "+91 91098 84179",
+        "address": "Apartment 3B, Royal Heights, Andheri West, Mumbai, Maharashtra, 400058"
+      },
+      "bookingDetails": {
+        "name": "swdfgthyuikol",
+        "email": "2024eb02061@online.bits-pilani.ac.in"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Suite Room",
+      "type": "Non-AC",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "210 sqft",
+      "image": "https://i.pinimg.com/736x/7a/36/0d/7a360da6d2be13fe58bcf15052bdbad9.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/c7/5f/fb/c75ffbcf6662814a4b29349dd3770b44.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/45/b0/30/45b030184fe966f6d0dff534e02fff9f.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/93/11/65/931165b7c9d74b0505b6203027ab595a.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Rakesh Agrawal",
+        "mobileNumber": "+91 91098 25488",
+        "address": "Flat 2A, Silver Oak Residency, Koramangala, Bangalore, Karnataka, 560034"
+      },
+      "bookingDetails": {
+        "name": "Manideep",
+        "email": "Manideep2120@gmail.com"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Economy Room",
+      "type": "AC",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "220 sqft",
+      "image": "https://i.pinimg.com/736x/78/6c/83/786c835c6de98774d7b9f2e7fce3f101.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/bd/b0/3d/bdb03dae62a4fba004cc28d8703ef497.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/eb/8c/5a/eb8c5af90ade2ec35364b6e8ccde6e0f.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/af/49/e6/af49e6276c05a0bf2428a107308fcfef.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Suresh Nair",
+        "mobileNumber": "+91 99876 90507",
+        "address": "Flat No. 105, Sunrise Apartments, MG Road, Bangalore, Karnataka, 560001"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Executive Room",
+      "type": "Non-AC",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "180 sqft",
+      "image": "https://i.pinimg.com/736x/0c/f3/ab/0cf3abbfbe5dddd56e9f5540a13219a7.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/ef/de/a0/efdea01de8c8ff9234df19aee8df4ded.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/eb/42/bf/eb42bf0a53c4b1602824b9fbd8e82a0e.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/b5/d0/a2/b5d0a252e57a70f02bfc6aabd9422adc.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Ritu Bansal",
+        "mobileNumber": "+91 93210 47155",
+        "address": "Flat 1D, Golden Heights, Powai, Mumbai, Maharashtra, 400076"
+      },
+      "bookingDetails": {
+        "name": "tanuj ",
+        "email": "repakasainavatej@gmail.com"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Family Room",
+      "type": "AC",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "190 sqft",
+      "image": "https://3.imimg.com/data3/UX/OL/MY-8862929/standard-room.png",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/52/31/55/5231551845264bee8330eb55c807807c.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/77/94/e1/7794e1d59ed7c5fd9058ab764234605f.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/75/19/2b/75192bb5a3ff5f9ca9d0d4b68cabacfe.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Vivek Gupta",
+        "mobileNumber": "+91 97654 75867",
+        "address": "Flat 4D, Ruby Complex, Park Street, Kolkata, West Bengal, 700016"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Compact Room",
+      "type": "Non-AC",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "200 sqft",
+      "image": "https://i.pinimg.com/736x/77/88/32/7788324f7f97a696a1cde17c1940006e.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/d8/6e/c6/d86ec6bc962d6f4ad5f3c9c9e1e8246d.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/25/f6/f1/25f6f1f71d97e6e51a7bcbb1704268ef.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/c8/32/21/c83221a684ce9d0d6e08c7c86aff4266.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Anita Singh",
+        "mobileNumber": "+91 94321 77021",
+        "address": "Apartment 3B, Royal Heights, Andheri West, Mumbai, Maharashtra, 400058"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Royal Suite",
+      "type": "AC",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "210 sqft",
+      "image": "https://i.pinimg.com/736x/6c/eb/97/6ceb97288636ce77d98ab163b9704fc0.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/f4/a5/cf/f4a5cfb7d11c380aa5ce0009771795d9.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/fb/4e/38/fb4e38ebae67e942fc6082dddd664e7b.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/fe/80/5f/fe805f3412d0f96ee3c7aefa28ce655c.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Anita Singh",
+        "mobileNumber": "+91 95432 78644",
+        "address": "Apartment 3B, Royal Heights, Andheri West, Mumbai, Maharashtra, 400058"
+      },
+      "bookingDetails": {
+        "name": "varsha",
+        "email": "tanukutanujkumar@mail.com"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Studio Room",
+      "type": "Non-AC",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "220 sqft",
+      "image": "https://i.pinimg.com/736x/66/5b/f2/665bf2a4c0e97a6564e7ac829b3820d9.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/41/c7/4f/41c74fa3932bc39736a4f5841eb9c0f5.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/54/f1/25/54f125da35c1a08fcba733b4926098f1.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/07/65/7f/07657ff18c04f4c9fe7742ec0fb6fb41.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Anil Kumar",
+        "mobileNumber": "+91 95432 30110",
+        "address": "Flat 3C, Diamond Residency, Salt Lake, Kolkata, West Bengal, 700064"
+      }
+    },
+    {
+      "id": "10",
+      "name": "Presidential Suite",
+      "type": "AC",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "180 sqft",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyzKXZe2ZNnXzIzuTQ41TzyIIf4-h5eyJe6g&s",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/06/6c/cb/066ccbfa21cd543e66098fa40f2eeddc.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/6c/8a/b0/6c8ab0d5fbb74f86d7996e5f9bb703c6.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/d2/1a/29/d21a2968cee0ea509993dc0fa3aecdef.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Divya Chopra",
+        "mobileNumber": "+91 93210 51750",
+        "address": "Plot 23, Green Valley Society, Pune, Maharashtra, 411001"
+      }
+    },
+    {
+      "id": "11",
+      "name": "Twin Room",
+      "type": "Non-AC",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "190 sqft",
+      "image": "https://i.pinimg.com/736x/e3/74/2f/e3742f76b9605701a6556dcff257d388.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/35/7b/67/357b6731cc46b631e51b5d4ce4b38a6a.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/b9/0a/b5/b90ab5a823b9c690fb67a824254f82af.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/4f/c6/8d/4fc68d12a015c8f287f3b5218b84c146.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Pallavi Joshi",
+        "mobileNumber": "+91 95432 12193",
+        "address": "Flat 4D, Ruby Complex, Park Street, Kolkata, West Bengal, 700016"
+      },
+      "bookingDetails": {
+        "name": "ttt",
+        "email": "t@gmail.com"
+      }
+    },
+    {
+      "id": "12",
+      "name": "King Room",
+      "type": "AC",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "200 sqft",
+      "image": "https://i.pinimg.com/736x/76/e7/f9/76e7f97943055b957460bf7c2714be6f.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/76/e7/f9/76e7f97943055b957460bf7c2714be6f.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/94/ee/f9/94eef9d479c7cec62dcd4e0bcc740bf5.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/8a/5d/82/8a5d82fd400f434907f975789be38249.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Rakesh Agrawal",
+        "mobileNumber": "+91 90987 88207",
+        "address": "Apartment 5A, Crystal Palace, Hitech City, Hyderabad, Telangana, 500081"
+      }
+    },
+    {
+      "id": "13",
+      "name": "Queen Room",
+      "type": "Non-AC",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "210 sqft",
+      "image": "https://i.pinimg.com/736x/f3/1f/25/f31f25c6f00ba7e831891c6ef3d04cd0.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/b3/95/aa/b395aab405ae08b0ea19690dfbfe7f43.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/9b/cc/e2/9bcce2af2df8af5eefd0ffa870fe8a5d.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/3a/d8/ee/3ad8eec81f24c2af55834fc577541b13.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Swati Malhotra",
+        "mobileNumber": "+91 95432 62228",
+        "address": "Apartment 1A, Opal Heights, Malad West, Mumbai, Maharashtra, 400064"
+      },
+      "bookingDetails": {
+        "name": "cvbn",
+        "email": "c"
+      }
+    },
+    {
+      "id": "14",
+      "name": "Honeymoon Suite",
+      "type": "AC",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "220 sqft",
+      "image": "https://i.pinimg.com/736x/0c/64/8e/0c648ef3809b98918f99ef54f2606dc7.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/b7/1c/ae/b71cae57e214ca197368d6c104972664.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/b7/1c/ae/b71cae57e214ca197368d6c104972664.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/7b/4e/4d/7b4e4d47f99788608191653aa3b2a4c0.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Deepika Rao",
+        "mobileNumber": "+91 95432 47232",
+        "address": "Apartment 4C, Sky View Towers, Bandra East, Mumbai, Maharashtra, 400051"
+      }
+    },
+    {
+      "id": "15",
+      "name": "Business Room",
+      "type": "Non-AC",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "180 sqft",
+      "image": "https://i.pinimg.com/736x/47/84/ab/4784ab6a4876c5312f530669884927ef.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/93/76/e7/9376e79c227dcd53f375bbcd1557a7cf.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/b8/59/0a/b8590ad0875323299446b163f8c88ad6.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/8f/be/d1/8fbed1a2e3d9b3e66463bafc2853fe1e.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Ashish Pandey",
+        "mobileNumber": "+91 96543 84294",
+        "address": "House 56, Marigold Society, Aundh, Pune, Maharashtra, 411007"
+      }
+    },
+    {
+      "id": "16",
+      "name": "Budget Room",
+      "type": "AC",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "190 sqft",
+      "image": "https://i.pinimg.com/736x/d8/5d/dd/d85ddd0ba6155f5db83cb58856eade07.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/15/a5/f6/15a5f6114d38c8feae8632837a43fcd1.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/ef/90/57/ef90573f00ecc1d10a068ebb13ec3f4d.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/f6/b9/38/f6b938104c12937fa5da81e4580949ca.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Meera Agarwal",
+        "mobileNumber": "+91 96543 10464",
+        "address": "Flat 1D, Golden Heights, Powai, Mumbai, Maharashtra, 400076"
+      }
+    },
+    {
+      "id": "17",
+      "name": "Sea View Room",
+      "type": "2BHK",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "200 sqft",
+      "image": "https://i.pinimg.com/736x/19/fa/2f/19fa2fd9f4653ac9882995e08aa8bc3f.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/79/86/8f/79868fc64496b750a7235fbcfdfea629.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/0d/4b/69/0d4b69575fd133fbd8bc1dafa234a2fe.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/0f/7f/16/0f7f16f8ae1a1e25a40da881b846d671.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Sunita Gupta",
+        "mobileNumber": "+91 98765 49224",
+        "address": "House 34, Jasmine Park, Sector 22, Noida, Uttar Pradesh, 201301"
+      }
+    },
+    {
+      "id": "18",
+      "name": "Mountain View Room",
+      "type": "2BHK",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "210 sqft",
+      "image": "https://i.pinimg.com/736x/27/4d/c8/274dc88740b5cd3e69207e542c34a174.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/83/0a/8f/830a8fedbfdcc72f823ae98e06c501f5.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/e4/38/71/e438712b53d4622da44d9681501f42b9.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/b1/7e/48/b17e484976ad12198981585b508f376a.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Nitin Goyal",
+        "mobileNumber": "+91 90987 74654",
+        "address": "Flat No. 105, Sunrise Apartments, MG Road, Bangalore, Karnataka, 560001"
+      }
+    },
+    {
+      "id": "19",
+      "name": "Garden Suite",
+      "type": "3BHK",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "220 sqft",
+      "image": "https://i.pinimg.com/736x/96/38/61/963861447c12a7649867a67f3492d380.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/79/86/8f/79868fc64496b750a7235fbcfdfea629.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/0d/4b/69/0d4b69575fd133fbd8bc1dafa234a2fe.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/0f/7f/16/0f7f16f8ae1a1e25a40da881b846d671.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Vivek Gupta",
+        "mobileNumber": "+91 93210 21376",
+        "address": "Plot 89, Emerald City, Whitefield, Bangalore, Karnataka, 560066"
+      }
+    },
+    {
+      "id": "20",
+      "name": "Resort Cottage",
+      "type": "3BHK",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "180 sqft",
+      "image": "https://i.pinimg.com/736x/88/5b/a3/885ba38bee148a249c6d0b2e8908d44a.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/88/5b/a3/885ba38bee148a249c6d0b2e8908d44a.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/1f/ff/6b/1fff6befa15fa9b3f9fc98a83571bffd.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/f8/57/e7/f857e74825efca278145904df2ae3a60.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Vivek Gupta",
+        "mobileNumber": "+91 98765 29393",
+        "address": "House 23, Tulip Gardens, Vasant Kunj, Delhi, 110070"
+      }
+    },
+    {
+      "id": "21",
+      "name": "Superior Room",
+      "type": "2BHK",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "190 sqft",
+      "image": "https://i.pinimg.com/736x/70/19/8a/70198a4cb3c266f1ce69274512d43a69.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/7b/5a/1b/7b5a1b0c040087bc76728006813c0f5c.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/70/19/8a/70198a4cb3c266f1ce69274512d43a69.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/31/fe/f4/31fef4d9293a2b8f0b4bf29829b50376.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Suresh Nair",
+        "mobileNumber": "+91 98765 52809",
+        "address": "Plot 91, Sapphire Homes, Gachibowli, Hyderabad, Telangana, 500032"
+      }
+    },
+    {
+      "id": "22",
+      "name": "Luxury Tent",
+      "type": "2BHK",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "200 sqft",
+      "image": "https://i.pinimg.com/736x/9c/c8/94/9cc894b60f2a03ccb6fdbfc63133f516.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/52/4c/25/524c2526e6fdc14588915c86cf89e15b.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/1a/45/a6/1a45a6b9e01c5f4de8d2ce12befda755.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/9c/c8/94/9cc894b60f2a03ccb6fdbfc63133f516.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Rohit Verma",
+        "mobileNumber": "+91 99876 15454",
+        "address": "Villa 78, Orchid Gardens, Jubilee Hills, Hyderabad, Telangana, 500033"
+      }
+    },
+    {
+      "id": "23",
+      "name": "Bungalow Room",
+      "type": "2BHK",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "210 sqft",
+      "image": "https://i.pinimg.com/736x/53/ea/37/53ea3726bb5d56a45aad83bf4923d322.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/9b/69/e9/9b69e963e18316ba6ba14829fb37b82f.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/58/34/3f/58343fb600e359090ffdc60f957fb5aa.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/dd/ec/47/ddec47376aea04abc1513c1b08cd03ac.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Harish Patel",
+        "mobileNumber": "+91 90987 36645",
+        "address": "House 67, Rose Garden, Model Town, Delhi, 110009"
+      }
+    },
+    {
+      "id": "24",
+      "name": "Penthouse Suite",
+      "type": "3BHK",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "220 sqft",
+      "image": "https://i.pinimg.com/736x/87/87/2d/87872d1175d41dc60de5cf8d50065e82.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/15/a5/f6/15a5f6114d38c8feae8632837a43fcd1.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/ef/90/57/ef90573f00ecc1d10a068ebb13ec3f4d.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/f6/b9/38/f6b938104c12937fa5da81e4580949ca.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Rashmi Bhatt",
+        "mobileNumber": "+91 96543 16365",
+        "address": "House 23, Tulip Gardens, Vasant Kunj, Delhi, 110070"
+      }
+    },
+    {
+      "id": "25",
+      "name": "Treehouse Room",
+      "type": "3BHK",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "180 sqft",
+      "image": "https://i.pinimg.com/736x/af/49/e6/af49e6276c05a0bf2428a107308fcfef.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/1d/78/29/1d7829f70ff74da5886d99710630b650.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/87/87/2d/87872d1175d41dc60de5cf8d50065e82.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/8a/17/ad/8a17ad0682bbf403c6221946f697d4d5.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Amit Joshi",
+        "mobileNumber": "+91 99876 64786",
+        "address": "Villa 12, Palm Grove, Electronic City, Bangalore, Karnataka, 560100"
+      }
+    },
+    {
+      "id": "26",
+      "name": "Cabana Room",
+      "type": "AC",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "190 sqft",
+      "image": "https://i.pinimg.com/736x/ef/de/a0/efdea01de8c8ff9234df19aee8df4ded.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/c7/5f/fb/c75ffbcf6662814a4b29349dd3770b44.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/45/b0/30/45b030184fe966f6d0dff534e02fff9f.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/93/11/65/931165b7c9d74b0505b6203027ab595a.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Rashmi Bhatt",
+        "mobileNumber": "+91 94321 17691",
+        "address": "Apartment 5A, Crystal Palace, Hitech City, Hyderabad, Telangana, 500081"
+      }
+    },
+    {
+      "id": "27",
+      "name": "Pool View Room",
+      "type": "3BHK",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "200 sqft",
+      "image": "https://i.pinimg.com/736x/e4/38/71/e438712b53d4622da44d9681501f42b9.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/bd/b0/3d/bdb03dae62a4fba004cc28d8703ef497.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/eb/8c/5a/eb8c5af90ade2ec35364b6e8ccde6e0f.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/af/49/e6/af49e6276c05a0bf2428a107308fcfef.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Amit Joshi",
+        "mobileNumber": "+91 95432 46352",
+        "address": "House 67, Rose Garden, Model Town, Delhi, 110009"
+      }
+    },
+    {
+      "id": "28",
+      "name": "City View Room",
+      "type": "3BHK",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "210 sqft",
+      "image": "https://i.pinimg.com/736x/b3/95/aa/b395aab405ae08b0ea19690dfbfe7f43.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/ef/de/a0/efdea01de8c8ff9234df19aee8df4ded.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/eb/42/bf/eb42bf0a53c4b1602824b9fbd8e82a0e.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/b5/d0/a2/b5d0a252e57a70f02bfc6aabd9422adc.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Madhuri Soni",
+        "mobileNumber": "+91 97654 60721",
+        "address": "House 34, Jasmine Park, Sector 22, Noida, Uttar Pradesh, 201301"
+      }
+    },
+    {
+      "id": "29",
+      "name": "Terrace Room",
+      "type": "Non-AC",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "220 sqft",
+      "image": "https://3.imimg.com/data3/UX/OL/MY-8862929/standard-room.png",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/52/31/55/5231551845264bee8330eb55c807807c.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/77/94/e1/7794e1d59ed7c5fd9058ab764234605f.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/75/19/2b/75192bb5a3ff5f9ca9d0d4b68cabacfe.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Anjali Kapoor",
+        "mobileNumber": "+91 92109 16847",
+        "address": "House 34, Jasmine Park, Sector 22, Noida, Uttar Pradesh, 201301"
+      }
+    },
+    {
+      "id": "30",
+      "name": "Dormitory",
+      "type": "3BHK",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "180 sqft",
+      "image": "https://i.pinimg.com/736x/3a/d8/ee/3ad8eec81f24c2af55834fc577541b13.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/d8/6e/c6/d86ec6bc962d6f4ad5f3c9c9e1e8246d.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/25/f6/f1/25f6f1f71d97e6e51a7bcbb1704268ef.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/c8/32/21/c83221a684ce9d0d6e08c7c86aff4266.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Sneha Kulkarni",
+        "mobileNumber": "+91 99876 32095",
+        "address": "Plot 23, Green Valley Society, Pune, Maharashtra, 411001"
+      }
+    },
+    {
+      "id": "31",
+      "name": "Mini Suite",
+      "type": "3BHK",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "190 sqft",
+      "image": "https://i.pinimg.com/736x/6e/a1/92/6ea192dc4baad43ee222b146b6ab7e88.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/f4/a5/cf/f4a5cfb7d11c380aa5ce0009771795d9.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/fb/4e/38/fb4e38ebae67e942fc6082dddd664e7b.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/fe/80/5f/fe805f3412d0f96ee3c7aefa28ce655c.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Manish Tiwari",
+        "mobileNumber": "+91 95432 26914",
+        "address": "Flat 1D, Golden Heights, Powai, Mumbai, Maharashtra, 400076"
+      }
+    },
+    {
+      "id": "32",
+      "name": "Loft Room",
+      "type": "3BHK",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "200 sqft",
+      "image": "https://i.pinimg.com/736x/a2/db/c2/a2dbc29fe55bc9ad840253d4631139f9.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/41/c7/4f/41c74fa3932bc39736a4f5841eb9c0f5.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/54/f1/25/54f125da35c1a08fcba733b4926098f1.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/07/65/7f/07657ff18c04f4c9fe7742ec0fb6fb41.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Rajesh Kumar",
+        "mobileNumber": "+91 91098 65254",
+        "address": "House 56, Marigold Society, Aundh, Pune, Maharashtra, 411007"
+      }
+    },
+    {
+      "id": "33",
+      "name": "Smart Room",
+      "type": "3BHK",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "210 sqft",
+      "image": "https://i.pinimg.com/736x/a8/0c/c2/a80cc2a0faf6d75e94fb1e25b40fd80e.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/06/6c/cb/066ccbfa21cd543e66098fa40f2eeddc.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/6c/8a/b0/6c8ab0d5fbb74f86d7996e5f9bb703c6.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/d2/1a/29/d21a2968cee0ea509993dc0fa3aecdef.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Ritu Bansal",
+        "mobileNumber": "+91 97654 98726",
+        "address": "Flat 4D, Ruby Complex, Park Street, Kolkata, West Bengal, 700016"
+      }
+    },
+    {
+      "id": "34",
+      "name": "Heritage Room",
+      "type": "Shared",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "220 sqft",
+      "image": "https://i.pinimg.com/736x/ad/cc/ea/adcceac5a610d15bf24355bb51404e81.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/35/7b/67/357b6731cc46b631e51b5d4ce4b38a6a.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/b9/0a/b5/b90ab5a823b9c690fb67a824254f82af.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/4f/c6/8d/4fc68d12a015c8f287f3b5218b84c146.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Arjun Mehta",
+        "mobileNumber": "+91 91098 65975",
+        "address": "House 56, Marigold Society, Aundh, Pune, Maharashtra, 411007"
+      }
+    },
+    {
+      "id": "35",
+      "name": "Rustic Room",
+      "type": "Non-AC",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "180 sqft",
+      "image": "https://i.pinimg.com/736x/6b/a3/4e/6ba34e5edde04c95567b29de2b384e75.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/76/e7/f9/76e7f97943055b957460bf7c2714be6f.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/94/ee/f9/94eef9d479c7cec62dcd4e0bcc740bf5.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/8a/5d/82/8a5d82fd400f434907f975789be38249.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Sneha Kulkarni",
+        "mobileNumber": "+91 97654 25608",
+        "address": "House No. 45, Lotus Colony, Sector 15, Gurgaon, Haryana, 122001"
+      }
+    },
+    {
+      "id": "36",
+      "name": "Traditional Room",
+      "type": "Shared",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "190 sqft",
+      "image": "https://i.pinimg.com/736x/0e/42/21/0e42217f8a112acaaf484af2274b21a8.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/b3/95/aa/b395aab405ae08b0ea19690dfbfe7f43.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/9b/cc/e2/9bcce2af2df8af5eefd0ffa870fe8a5d.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/3a/d8/ee/3ad8eec81f24c2af55834fc577541b13.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Kavya Reddy",
+        "mobileNumber": "+91 95432 92898",
+        "address": "Apartment 1A, Opal Heights, Malad West, Mumbai, Maharashtra, 400064"
+      }
+    },
+    {
+      "id": "37",
+      "name": "Modern Suite",
+      "type": "Non-AC",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "200 sqft",
+      "image": "https://i.pinimg.com/736x/55/37/15/553715fd7bf6ed936a1c907a7add45b6.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/b7/1c/ae/b71cae57e214ca197368d6c104972664.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/b7/1c/ae/b71cae57e214ca197368d6c104972664.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/7b/4e/4d/7b4e4d47f99788608191653aa3b2a4c0.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Divya Chopra",
+        "mobileNumber": "+91 95432 94963",
+        "address": "Apartment 5A, Crystal Palace, Hitech City, Hyderabad, Telangana, 500081"
+      }
+    },
+    {
+      "id": "38",
+      "name": "Ruby Room",
+      "type": "AC",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "210 sqft",
+      "image": "https://i.pinimg.com/736x/1d/1e/0c/1d1e0cae3d7f69db019355a3b26e2908.jpg ",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/93/76/e7/9376e79c227dcd53f375bbcd1557a7cf.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/b8/59/0a/b8590ad0875323299446b163f8c88ad6.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/8f/be/d1/8fbed1a2e3d9b3e66463bafc2853fe1e.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Shweta Saxena",
+        "mobileNumber": "+91 99876 67737",
+        "address": "Plot 91, Sapphire Homes, Gachibowli, Hyderabad, Telangana, 500032"
+      }
+    },
+    {
+      "id": "39",
+      "name": "Emerald Room",
+      "type": "Non-AC",
+      "price": 1200,
+      "priceDetails": {
+        "monthly": 1200,
+        "yearly": 14400
+      },
+      "size": "220 sqft",
+      "image": "https://i.pinimg.com/736x/38/af/d0/38afd09a70a510f5b686c187190f7b66.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/79/86/8f/79868fc64496b750a7235fbcfdfea629.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/0d/4b/69/0d4b69575fd133fbd8bc1dafa234a2fe.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/0f/7f/16/0f7f16f8ae1a1e25a40da881b846d671.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Kavya Reddy",
+        "mobileNumber": "+91 94321 74681",
+        "address": "Plot 89, Emerald City, Whitefield, Bangalore, Karnataka, 560066"
+      }
+    },
+    {
+      "id": "40",
+      "name": "Local 1BHK",
+      "type": "1BHK",
+      "price": 1500,
+      "priceDetails": {
+        "monthly": 1500,
+        "yearly": 18000
+      },
+      "size": "180 sqft",
+      "image": "https://i.pinimg.com/736x/e1/e8/09/e1e80918f7696325a812847bc0804e85.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious room with ample lighting",
+        "Perfect for working professionals or students",
+        "Attached washroom with geyser",
+        "Room cleaned daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "TV",
+        "Room Service",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/83/0a/8f/830a8fedbfdcc72f823ae98e06c501f5.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/e4/38/71/e438712b53d4622da44d9681501f42b9.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/b1/7e/48/b17e484976ad12198981585b508f376a.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Shweta Saxena",
+        "mobileNumber": "+91 94321 40175",
+        "address": "Flat 4D, Ruby Complex, Park Street, Kolkata, West Bengal, 700016"
+      }
+    },
+    {
+      "id": "40",
+      "name": "Urban 1BHK",
+      "type": "1BHK",
+      "price": 18000,
+      "priceDetails": {
+        "monthly": 18000,
+        "yearly": 216000
+      },
+      "size": "630 sqft",
+      "image": "https://i.pinimg.com/1200x/2e/66/52/2e665262be046f852a63353310fed85d.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious hall with large windows",
+        "Balcony attached to bedroom",
+        "Modular kitchen",
+        "24x7 water and power backup"
+      ],
+      "facilities": [
+        "WiFi",
+        "Refrigerator",
+        "Air Conditioning",
+        "Elevator",
+        "Security"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/1a/57/d9/1a57d9aa1ff216891399c1107c6675c7.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/6a/34/22/6a342255bdc4da3e8d88b77c1cbd9ed6.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Kiran Shah",
+        "mobileNumber": "+91 97654 62002",
+        "address": "Apartment 5A, Crystal Palace, Hitech City, Hyderabad, Telangana, 500081"
+      }
+    },
+    {
+      "id": "41",
+      "name": "Metro Prime",
+      "type": "AC",
+      "price": 21000,
+      "priceDetails": {
+        "monthly": 21000,
+        "yearly": 252000
+      },
+      "size": "700 sqft",
+      "image": "https://i.pinimg.com/736x/9f/fe/f9/9ffef9b28c57575a2e75ffcf7815232a.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Open kitchen with living area",
+        "Panoramic windows",
+        "Ensuite washroom",
+        "24-hour security"
+      ],
+      "facilities": [
+        "WiFi",
+        "Parking",
+        "Laundry",
+        "Gym",
+        "Power backup"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/3b/32/f0/3b32f001d739a4982e5675d2a8706b3a.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Manish Tiwari",
+        "mobileNumber": "+91 93210 47510",
+        "address": "Flat 3C, Diamond Residency, Salt Lake, Kolkata, West Bengal, 700064"
+      }
+    },
+    {
+      "id": "42",
+      "name": "Lakeview 1BHK",
+      "type": "1BHK",
+      "price": 17500,
+      "priceDetails": {
+        "monthly": 17500,
+        "yearly": 210000
+      },
+      "size": "650 sqft",
+      "image": "https://i.pinimg.com/736x/66/fe/49/66fe496bbf4d748b0b9e925bd7d5a9f3.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Lake-facing balcony",
+        "Bright interiors",
+        "Modular kitchen",
+        "Modern bathroom"
+      ],
+      "facilities": [
+        "WiFi",
+        "Lift",
+        "Parking",
+        "Security",
+        "Housekeeping"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/bd/ee/d3/bdeed31d17e6c9699b3520a73daac49a.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Sanjay Mishra",
+        "mobileNumber": "+91 99876 51737",
+        "address": "Apartment 2B, Pearl Towers, Indira Nagar, Bangalore, Karnataka, 560038"
+      }
+    },
+    {
+      "id": "43",
+      "name": "Serene 1BHK Retreat",
+      "type": "1BHK",
+      "price": 14000,
+      "priceDetails": {
+        "monthly": 14000,
+        "yearly": 168000
+      },
+      "size": "590 sqft",
+      "image": "https://i.pinimg.com/736x/be/84/89/be8489a6cd16c189ef2cfff23a529b25.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Peaceful locality",
+        "Spacious bedroom",
+        "Modern kitchen",
+        "Backup generator"
+      ],
+      "facilities": [
+        "WiFi",
+        "Lift",
+        "Parking",
+        "Daily Cleaning",
+        "Housekeeping"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/57/b9/65/57b965b529dcde2b71db17da4bc117f3.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Swati Malhotra",
+        "mobileNumber": "+91 92109 39956",
+        "address": "Apartment 1A, Opal Heights, Malad West, Mumbai, Maharashtra, 400064"
+      }
+    },
+    {
+      "id": "44",
+      "name": "Central 1BHK Studio",
+      "type": "1BHK",
+      "price": 19500,
+      "priceDetails": {
+        "monthly": 19500,
+        "yearly": 234000
+      },
+      "size": "560 sqft",
+      "image": "https://i.pinimg.com/1200x/01/c5/02/01c50269fd3ba01ada52ff0aa276565e.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Prime city location",
+        "Furnished",
+        "Rooftop access",
+        "Modern washroom"
+      ],
+      "facilities": [
+        "WiFi",
+        "Furnished",
+        "Power Backup",
+        "Parking",
+        "Security"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/e8/b1/0a/e8b10a4ab2c73a90e6246d927f60523b.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Kavya Reddy",
+        "mobileNumber": "+91 99876 77972",
+        "address": "Apartment 2B, Pearl Towers, Indira Nagar, Bangalore, Karnataka, 560038"
+      }
+    },
+    {
+      "id": "45",
+      "name": "Sunshine 1BHK Flat",
+      "type": "1BHK",
+      "price": 13000,
+      "priceDetails": {
+        "monthly": 13000,
+        "yearly": 156000
+      },
+      "size": "480 sqft",
+      "image": "https://i.pinimg.com/736x/73/18/80/731880256fa1f489d671bec9af6f9795.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Ample sunlight throughout the day",
+        "Balcony",
+        "Maintenance included",
+        "Quiet neighborhood"
+      ],
+      "facilities": [
+        "Wifi",
+        "Laundry",
+        "Maintenance",
+        "Security",
+        "Fan"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/6f/f3/90/6ff39050a022fcda6bc846b61b104ada.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Vivek Gupta",
+        "mobileNumber": "+91 93210 12253",
+        "address": "Apartment 2B, Pearl Towers, Indira Nagar, Bangalore, Karnataka, 560038"
+      }
+    },
+    {
+      "id": "46",
+      "name": "Riverfront 1BHK",
+      "type": "1BHK",
+      "price": 18500,
+      "priceDetails": {
+        "monthly": 18500,
+        "yearly": 222000
+      },
+      "size": "680 sqft",
+      "image": "https://i.pinimg.com/736x/1d/1e/0c/1d1e0cae3d7f69db019355a3b26e2908.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "River view windows",
+        "Updated kitchen appliances",
+        "Wardrobe provided",
+        "Reserved parking"
+      ],
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Parking",
+        "Elevator",
+        "Security"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/27/8c/80/278c80dc35c7bdc7a65819a6fcd3c981.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Harish Patel",
+        "mobileNumber": "+91 95432 48821",
+        "address": "House No. 45, Lotus Colony, Sector 15, Gurgaon, Haryana, 122001"
+      }
+    },
+    {
+      "id": "47",
+      "name": "Budget Saver 1BHK",
+      "type": "1BHK",
+      "price": 11000,
+      "priceDetails": {
+        "monthly": 11000,
+        "yearly": 132000
+      },
+      "size": "420 sqft",
+      "image": "https://i.pinimg.com/1200x/7d/3a/7a/7d3a7a850a93ffff1f8e82d143ea167d.jpg ",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Compact yet comfortable",
+        "Ideal for singles",
+        "Affordable pricing",
+        "Good connectivity"
+      ],
+      "facilities": [
+        "WiFi",
+        "Fan",
+        "Security",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/82/39/60/8239604ba987577beb96a07c79c02038.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Swati Malhotra",
+        "mobileNumber": "+91 92109 42064",
+        "address": "Plot 91, Sapphire Homes, Gachibowli, Hyderabad, Telangana, 500032"
+      }
+    },
+    {
+      "id": "48",
+      "name": "Elite 1BHK Suite",
+      "type": "1BHK",
+      "price": 25000,
+      "priceDetails": {
+        "monthly": 25000,
+        "yearly": 300000
+      },
+      "size": "800 sqft",
+      "image": "https://i.pinimg.com/736x/bd/2b/8c/bd2b8cfbc172752eb3ce2519c2f49d6e.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Luxury interiors",
+        "Smart home features",
+        "King size bed",
+        "Designer kitchen"
+      ],
+      "facilities": [
+        "Smart TV",
+        "WiFi",
+        "Concierge",
+        "Lift",
+        "Security"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/6f/10/76/6f107654c15d817495e45b2be8239bff.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Priya Sharma",
+        "mobileNumber": "+91 99876 11329",
+        "address": "Flat 3C, Diamond Residency, Salt Lake, Kolkata, West Bengal, 700064"
+      }
+    },
+    {
+      "id": "49",
+      "name": "City Center 1BHK",
+      "type": "1BHK",
+      "price": 22000,
+      "priceDetails": {
+        "monthly": 22000,
+        "yearly": 264000
+      },
+      "size": "720 sqft",
+      "image": "https://i.pinimg.com/1200x/0c/64/6e/0c646e6b434492b15414e317cdcc6584.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Heart of the city",
+        "Balcony with skyline view",
+        "Modern open-plan",
+        "Power backup"
+      ],
+      "facilities": [
+        "WiFi",
+        "AC",
+        "Lift",
+        "Power backup",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/ea/1e/23/ea1e23baaa5317ba33c656827773c2bd.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Preeti Sinha",
+        "mobileNumber": "+91 96543 53690",
+        "address": "Flat 2A, Silver Oak Residency, Koramangala, Bangalore, Karnataka, 560034"
+      }
+    },
+    {
+      "id": "50",
+      "name": "Parkside 1BHK",
+      "type": "1BHK",
+      "price": 25000,
+      "priceDetails": {
+        "monthly": 25000,
+        "yearly": 300000
+      },
+      "size": "980 sqft",
+      "image": "https://i.pinimg.com/736x/88/37/ae/8837ae2bff56d0674b2aac12b7268e57.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Two bedrooms with attached bathrooms",
+        "Park view balcony",
+        "Spacious living room",
+        "Modern kitchen with chimney"
+      ],
+      "facilities": [
+        "WiFi",
+        "Intercom",
+        "CCTV",
+        "Parking",
+        "Lift"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/57/8c/7d/578c7d1a54fe60039e9036b3c39b6d31.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/e4/f4/29/e4f42994ef73f314cddeb7bc016701ed.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Arjun Mehta",
+        "mobileNumber": "+91 99876 81825",
+        "address": "House 67, Rose Garden, Model Town, Delhi, 110009"
+      }
+    },
+    {
+      "id": "51",
+      "name": "Skyline 1BHK Suite",
+      "type": "1BHK",
+      "price": 28500,
+      "priceDetails": {
+        "monthly": 28500,
+        "yearly": 342000
+      },
+      "size": "1,050 sqft",
+      "image": "https://i.pinimg.com/736x/15/6a/92/156a920234b13465fefb02c2e40c20db.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "City skyline views",
+        "Roof access",
+        "Modern kitchen",
+        "Dining area"
+      ],
+      "facilities": [
+        "WiFi",
+        "AC",
+        "Roof Access",
+        "Security",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/f2/fb/d6/f2fbd6aee6c9445dc8c65d2c6cfbe6d1.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Madhuri Soni",
+        "mobileNumber": "+91 93210 95838",
+        "address": "Plot 23, Green Valley Society, Pune, Maharashtra, 411001"
+      }
+    },
+    {
+      "id": "52",
+      "name": "Eco 2BHK Flat",
+      "type": "2BHK",
+      "price": 20000,
+      "priceDetails": {
+        "monthly": 20000,
+        "yearly": 240000
+      },
+      "size": "910 sqft",
+      "image": "https://i.pinimg.com/1200x/7d/3a/7a/7d3a7a850a93ffff1f8e82d143ea167d.jpg ",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Eco-friendly building",
+        "Natural light emphasized",
+        "Wood finish interiors"
+      ],
+      "facilities": [
+        "WiFi",
+        "Garden",
+        "Intercom",
+        "Lift"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/00/40/8c/00408cdd00589f7c114c12362b6e00ef.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Priya Sharma",
+        "mobileNumber": "+91 94321 70794",
+        "address": "Plot 23, Green Valley Society, Pune, Maharashtra, 411001"
+      }
+    },
+    {
+      "id": "53",
+      "name": "Premium 2BHK Space",
+      "type": "2BHK",
+      "price": 32000,
+      "priceDetails": {
+        "monthly": 32000,
+        "yearly": 384000
+      },
+      "size": "1,200 sqft",
+      "image": "https://i.pinimg.com/736x/bd/2b/8c/bd2b8cfbc172752eb3ce2519c2f49d6e.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Large rooms",
+        "Work-from-home zone",
+        "Premium furnishings",
+        "2 bathrooms"
+      ],
+      "facilities": [
+        "WiFi",
+        "Furnished",
+        "Power Backup",
+        "Security",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/ed/7a/09/ed7a094c5f4f3c72b97f619f6bb87801.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Nisha Arora",
+        "mobileNumber": "+91 94321 36923",
+        "address": "Plot 91, Sapphire Homes, Gachibowli, Hyderabad, Telangana, 500032"
+      }
+    },
+    {
+      "id": "54",
+      "name": "Central City 2BHK",
+      "type": "2BHK",
+      "price": 26000,
+      "priceDetails": {
+        "monthly": 26000,
+        "yearly": 312000
+      },
+      "size": "990 sqft",
+      "image": "https://i.pinimg.com/736x/be/84/89/be8489a6cd16c189ef2cfff23a529b25.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Near metro station",
+        "Attached balconies",
+        "Semi-furnished"
+      ],
+      "facilities": [
+        "Lift",
+        "Parking",
+        "WiFi",
+        "Intercom"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/85/3b/04/853b04a89fd85edc1506a9732bf3f3f8.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Deepak Singh",
+        "mobileNumber": "+91 98765 47467",
+        "address": "Apartment 4C, Sky View Towers, Bandra East, Mumbai, Maharashtra, 400051"
+      }
+    },
+    {
+      "id": "55",
+      "name": "Greenwood 2BHK",
+      "type": "2BHK",
+      "price": 21500,
+      "priceDetails": {
+        "monthly": 21500,
+        "yearly": 258000
+      },
+      "size": "920 sqft",
+      "image": "https://i.pinimg.com/736x/73/18/80/731880256fa1f489d671bec9af6f9795.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Bordering city gardens",
+        "Quiet area",
+        "Master and guest bedrooms"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Parking",
+        "Intercom"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/0c/9b/a0/0c9ba026f09e02ececbf723e28fe2e69.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Rashmi Bhatt",
+        "mobileNumber": "+91 95432 50296",
+        "address": "House 67, Rose Garden, Model Town, Delhi, 110009"
+      }
+    },
+    {
+      "id": "56",
+      "name": "Sunrise 2BHK Apartment",
+      "type": "2BHK",
+      "price": 29500,
+      "priceDetails": {
+        "monthly": 29500,
+        "yearly": 354000
+      },
+      "size": "1,070 sqft",
+      "image": "https://i.pinimg.com/736x/6a/d7/6d/6ad76d6e325068fd3444c5d14d433f4e.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Sunlit interiors",
+        "Modular kitchen",
+        "High security",
+        "Children's play area"
+      ],
+      "facilities": [
+        "WiFi",
+        "Security",
+        "Children's Play",
+        "Parking",
+        "Elevator"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/24/ab/3d/24ab3da596cb2139b1b395bef86ce60e.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Ashish Pandey",
+        "mobileNumber": "+91 97654 76201",
+        "address": "Apartment 1A, Opal Heights, Malad West, Mumbai, Maharashtra, 400064"
+      }
+    },
+    {
+      "id": "57",
+      "name": "Dockside 2BHK Suite",
+      "type": "2BHK",
+      "price": 24500,
+      "priceDetails": {
+        "monthly": 24500,
+        "yearly": 294000
+      },
+      "size": "1,020 sqft",
+      "image": "https://i.pinimg.com/736x/d2/47/f4/d247f4efcc5b0972abe5e4f36ef623a2.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Proximity to business district",
+        "Spacious living",
+        "Fully furnished"
+      ],
+      "facilities": [
+        "WiFi",
+        "Furnished",
+        "Intercom",
+        "Security"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/03/07/9f/03079f1ad7fbb9cd7f6c13db9252d1e7.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Sanjay Mishra",
+        "mobileNumber": "+91 91098 35488",
+        "address": "Apartment 1A, Opal Heights, Malad West, Mumbai, Maharashtra, 400064"
+      }
+    },
+    {
+      "id": "58",
+      "name": "The Happy Home",
+      "type": "Non-AC",
+      "price": 19000,
+      "priceDetails": {
+        "monthly": 19000,
+        "yearly": 228000
+      },
+      "size": "850 sqft",
+      "image": "https://i.pinimg.com/736x/0b/44/ae/0b44ae2e8ba135104b140b7b334ec792.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Affordable and functional",
+        "Convenient transport links"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/15/76/30/157630d5919992ee0aa238ee8a8c6c40.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Sachin Yadav",
+        "mobileNumber": "+91 96543 21252",
+        "address": "House 56, Marigold Society, Aundh, Pune, Maharashtra, 411007"
+      }
+    },
+    {
+      "id": "59",
+      "name": "Summit 2BHK",
+      "type": "2BHK",
+      "price": 31000,
+      "priceDetails": {
+        "monthly": 31000,
+        "yearly": 372000
+      },
+      "size": "1,130 sqft",
+      "image": "https://i.pinimg.com/736x/f3/19/79/f31979e3cb879e7e5f2ca5a7e25e42ba.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Higher floor, scenic view",
+        "Two balconies",
+        "En-suite bathrooms"
+      ],
+      "facilities": [
+        "WiFi",
+        "AC",
+        "Security",
+        "Lift"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/13/8f/10/138f1084570a882180894aba46e0b3e7.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Meera Agarwal",
+        "mobileNumber": "+91 92109 61919",
+        "address": "Flat 3C, Diamond Residency, Salt Lake, Kolkata, West Bengal, 700064"
+      }
+    },
+    {
+      "id": "60",
+      "name": "Metro Luxury 2BHK",
+      "type": "2BHK",
+      "price": 35000,
+      "priceDetails": {
+        "monthly": 35000,
+        "yearly": 420000
+      },
+      "size": "1,300 sqft",
+      "image": "https://i.pinimg.com/736x/43/32/34/433234c5fc564372885879ceecb5ec8e.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Three master bedrooms",
+        "Dedicated study/work space",
+        "Multiple balconies",
+        "Premium interiors"
+      ],
+      "facilities": [
+        "Gym",
+        "Swimming Pool",
+        "Clubhouse",
+        "WiFi",
+        "Concierge"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/87/4e/3b/874e3ba5ede95d840be6df24c2e9f2cb.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Shweta Saxena",
+        "mobileNumber": "+91 93210 90936",
+        "address": "House 23, Tulip Gardens, Vasant Kunj, Delhi, 110070"
+      }
+    },
+    {
+      "id": "61",
+      "name": "Elite Urban 2BHK",
+      "type": "2BHK",
+      "price": 47000,
+      "priceDetails": {
+        "monthly": 47000,
+        "yearly": 564000
+      },
+      "size": "1,520 sqft",
+      "image": "https://i.pinimg.com/736x/ad/2a/5c/ad2a5c31f50688547dbe70b3d97d6583.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Designer flooring",
+        "Spacious hall",
+        "Servant room",
+        "3 balconies"
+      ],
+      "facilities": [
+        "WiFi",
+        "Smart TV",
+        "Gym",
+        "Parking",
+        "Intercom"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/d3/91/77/d39177abcbb41749bb042d43a0dd2bb7.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Sunita Gupta",
+        "mobileNumber": "+91 99876 20608",
+        "address": "Plot 91, Sapphire Homes, Gachibowli, Hyderabad, Telangana, 500032"
+      }
+    },
+    {
+      "id": "62",
+      "name": "Regal 2BHK Residency",
+      "type": "2BHK",
+      "price": 41000,
+      "priceDetails": {
+        "monthly": 41000,
+        "yearly": 492000
+      },
+      "size": "1,410 sqft",
+      "image": "https://i.pinimg.com/736x/99/40/0e/99400e42eb2efc6a5c0a7b2232e1f462.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Penthouse level",
+        "City and park views",
+        "Modern kitchen",
+        "Luxury amenities"
+      ],
+      "facilities": [
+        "WiFi",
+        "Concierge",
+        "Swimming Pool",
+        "Security",
+        "Housekeeping"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/76/6d/54/766d5425d77b2b2ac915d22f8ecdab06.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Ravi Chandra",
+        "mobileNumber": "+91 94321 30307",
+        "address": "Plot 89, Emerald City, Whitefield, Bangalore, Karnataka, 560066"
+      }
+    },
+    {
+      "id": "63",
+      "name": "Student Shared PG",
+      "type": "Shared",
+      "price": 6500,
+      "priceDetails": {
+        "monthly": 6500,
+        "yearly": 78000
+      },
+      "size": "110 sqft",
+      "image": "https://i.pinimg.com/1200x/ed/6d/b6/ed6db6222feb97073af0c16f01d06d38.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Twin sharing beds",
+        "Study table and chair for each",
+        "Common kitchen",
+        "Daily housekeeping"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Cook",
+        "Warden",
+        "CCTV"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/34/64/dd/3464dd3293a78e992b3ae0f5d3795e1b.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Gaurav Sharma",
+        "mobileNumber": "+91 99876 18285",
+        "address": "House 34, Jasmine Park, Sector 22, Noida, Uttar Pradesh, 201301"
+      }
+    },
+    {
+      "id": "64",
+      "name": "Budget Boys PG",
+      "type": "Shared",
+      "price": 5000,
+      "priceDetails": {
+        "monthly": 5000,
+        "yearly": 60000
+      },
+      "size": "140 sqft",
+      "image": "https://i.pinimg.com/1200x/b5/50/1d/b5501d0aede6477a9b152752742eb26c.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Triple sharing room",
+        "Affordable, safe",
+        "Attached bathroom",
+        "Cleaned daily"
+      ],
+      "facilities": [
+        "CCTV",
+        "Fan",
+        "Laundry",
+        "Internet",
+        "Mess"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/14/3a/84/143a849564b35452c002ac2d83059ff4.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Kavya Reddy",
+        "mobileNumber": "+91 96543 86096",
+        "address": "Villa 12, Palm Grove, Electronic City, Bangalore, Karnataka, 560100"
+      }
+    },
+    {
+      "id": "65",
+      "name": "Girls Hostel Shared",
+      "type": "Shared",
+      "price": 6000,
+      "priceDetails": {
+        "monthly": 6000,
+        "yearly": 72000
+      },
+      "size": "125 sqft",
+      "image": "https://i.pinimg.com/1200x/ee/08/8a/ee088a64feee7c13cd20295a6bd18ad7.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Double sharing beds",
+        "Healthy food",
+        "Study lamps",
+        "Laundry service"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Cook",
+        "Security",
+        "Warden"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/7a/71/9c/7a719ce93ca159e7fd86caf871d7cd46.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Rajesh Kumar",
+        "mobileNumber": "+91 99876 23201",
+        "address": "House 56, Marigold Society, Aundh, Pune, Maharashtra, 411007"
+      }
+    },
+    {
+      "id": "66",
+      "name": "Working Women Shared PG",
+      "type": "Shared",
+      "price": 8000,
+      "priceDetails": {
+        "monthly": 8000,
+        "yearly": 96000
+      },
+      "size": "160 sqft",
+      "image": "https://i.pinimg.com/1200x/b4/22/e7/b422e73ab2c0da99865316b8dcc2cb1f.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Room for 2-3 women",
+        "Full-time security",
+        "Meals included",
+        "Laundry and WiFi"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Mess",
+        "Security",
+        "Lift"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/30/58/99/305899b8c4b98b31dbf5caad7f5d14e3.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Rajesh Kumar",
+        "mobileNumber": "+91 97654 81559",
+        "address": "House 67, Rose Garden, Model Town, Delhi, 110009"
+      }
+    },
+    {
+      "id": "67",
+      "name": "Central Shared Boys Room",
+      "type": "Shared",
+      "price": 5500,
+      "priceDetails": {
+        "monthly": 5500,
+        "yearly": 66000
+      },
+      "size": "105 sqft",
+      "image": "https://i.pinimg.com/1200x/56/4a/5c/564a5ce53979ab3536a9859493157cf6.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Near metro",
+        "Common washroom",
+        "Wardrobe",
+        "Mess facility"
+      ],
+      "facilities": [
+        "Laundry",
+        "WiFi",
+        "Security",
+        "CCTV"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/ea/ed/6c/eaed6ce743f44eaa8bf67e847799e2ba.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Nisha Arora",
+        "mobileNumber": "+91 97654 52617",
+        "address": "House No. 45, Lotus Colony, Sector 15, Gurgaon, Haryana, 122001"
+      }
+    },
+    {
+      "id": "68",
+      "name": "PG Elite Shared",
+      "type": "Shared",
+      "price": 8500,
+      "priceDetails": {
+        "monthly": 8500,
+        "yearly": 102000
+      },
+      "size": "175 sqft",
+      "image": "https://i.pinimg.com/1200x/01/b5/81/01b5816f06f88548c2eb405d553ba7fc.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious twin sharing",
+        "Hot meals provided",
+        "Housekeeping"
+      ],
+      "facilities": [
+        "WiFi",
+        "Housekeeping",
+        "Mess",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/4d/e6/8d/4de68d8b309bc95c048269b674c558e8.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Kavya Reddy",
+        "mobileNumber": "+91 97654 79824",
+        "address": "Flat 1D, Golden Heights, Powai, Mumbai, Maharashtra, 400076"
+      }
+    },
+    {
+      "id": "69",
+      "name": "Budget PG Shared",
+      "type": "Shared",
+      "price": 4700,
+      "priceDetails": {
+        "monthly": 4700,
+        "yearly": 56400
+      },
+      "size": "90 sqft",
+      "image": "https://i.pinimg.com/736x/59/3f/8e/593f8e68b86ebb8f22c05ff50bdcf510.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Triple sharing",
+        "Cost-effective",
+        "Fan & Window"
+      ],
+      "facilities": [
+        "Fan",
+        "Laundry",
+        "Security"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/bc/f0/23/bcf0238d76ec1cce0e0578114b32dd34.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Nisha Arora",
+        "mobileNumber": "+91 98765 31452",
+        "address": "House 67, Rose Garden, Model Town, Delhi, 110009"
+      }
+    },
+    {
+      "id": "70",
+      "name": "Luxury Girls Shared",
+      "type": "Shared",
+      "price": 9500,
+      "priceDetails": {
+        "monthly": 9500,
+        "yearly": 114000
+      },
+      "size": "160 sqft",
+      "image": "https://i.pinimg.com/736x/18/d6/9a/18d69a697eefdbc87130836c273e58d4.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Fully furnished",
+        "Premium food",
+        "Secure premises"
+      ],
+      "facilities": [
+        "CCTV",
+        "WiFi",
+        "Laundry",
+        "Cook",
+        "Warden"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/fe/19/8a/fe198a133f49c85f229c81ab173ed2ee.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Kavya Reddy",
+        "mobileNumber": "+91 99876 77004",
+        "address": "Flat 2A, Silver Oak Residency, Koramangala, Bangalore, Karnataka, 560034"
+      }
+    },
+    {
+      "id": "71",
+      "name": "College Boys Shared Room",
+      "type": "Shared",
+      "price": 6600,
+      "priceDetails": {
+        "monthly": 6600,
+        "yearly": 79200
+      },
+      "size": "120 sqft",
+      "image": "https://i.pinimg.com/736x/48/00/c8/4800c89d357012b1859fb4ad16f41d0e.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Study-friendly environment",
+        "Single cot sharing",
+        "Budget price"
+      ],
+      "facilities": [
+        "Internet",
+        "Mess",
+        "Fan",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/d2/af/93/d2af935b8430f6e02ff9a061dffa8c9b.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Ravi Chandra",
+        "mobileNumber": "+91 91098 52461",
+        "address": "Apartment 5A, Crystal Palace, Hitech City, Hyderabad, Telangana, 500081"
+      }
+    },
+    {
+      "id": "72",
+      "name": "PG for Students - Shared",
+      "type": "Shared",
+      "price": 7000,
+      "priceDetails": {
+        "monthly": 7000,
+        "yearly": 84000
+      },
+      "size": "135 sqft",
+      "image": "https://i.pinimg.com/736x/73/b6/c6/73b6c68b26d3d0f84bac3802e0e1196d.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Twin sharing bed",
+        "All utilities included",
+        "Meals thrice daily"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Mess"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/f4/f6/d9/f4f6d9d42713588b20f6c0072c489d09.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Deepika Rao",
+        "mobileNumber": "+91 92109 74414",
+        "address": "Flat No. 105, Sunrise Apartments, MG Road, Bangalore, Karnataka, 560001"
+      }
+    },
+    {
+      "id": "73",
+      "name": "Uptown 1BHK Studio",
+      "type": "2BHK",
+      "price": 18500,
+      "priceDetails": {
+        "monthly": 18500,
+        "yearly": 222000
+      },
+      "size": "580 sqft",
+      "image": "https://i.pinimg.com/736x/2f/a1/c6/2fa1c6c4a6eab0fbed94e1b50df152ec.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "High-rise building",
+        "Fully furnished studio",
+        "Modern bathroom",
+        "Rooftop gym"
+      ],
+      "facilities": [
+        "WiFi",
+        "Gym",
+        "Security",
+        "Elevator",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/d0/51/45/d05145ee699fbf564db680bf0b9ccafc.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Kavya Reddy",
+        "mobileNumber": "+91 94321 50818",
+        "address": "Plot 89, Emerald City, Whitefield, Bangalore, Karnataka, 560066"
+      }
+    },
+    {
+      "id": "74",
+      "name": "Lakefront Shared PG",
+      "type": "Shared",
+      "price": 6000,
+      "priceDetails": {
+        "monthly": 6000,
+        "yearly": 72000
+      },
+      "size": "115 sqft",
+      "image": "https://i.pinimg.com/736x/65/41/c7/6541c7a2e4f228c90449a98be1ba7e05.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Overlooks lake",
+        "Twin sharing beds",
+        "Study facilities",
+        "On-site warden"
+      ],
+      "facilities": [
+        "WiFi",
+        "Canteen",
+        "Warden",
+        "Laundry",
+        "Fan"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/9f/22/33/9f2233cbe9e9ae372518895c14fe3b18.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Rakesh Agrawal",
+        "mobileNumber": "+91 94321 12713",
+        "address": "Plot 23, Green Valley Society, Pune, Maharashtra, 411001"
+      }
+    },
+    {
+      "id": "75",
+      "name": "Metroview 2BHK",
+      "type": "2BHK",
+      "price": 27000,
+      "priceDetails": {
+        "monthly": 27000,
+        "yearly": 324000
+      },
+      "size": "975 sqft",
+      "image": "https://i.pinimg.com/736x/0b/3b/be/0b3bbe0ef759bc580e0cd3a3c17735ba.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Proximity to metro",
+        "Balconies in both rooms",
+        "24x7 power backup",
+        "Modern interiors"
+      ],
+      "facilities": [
+        "WiFi",
+        "Power Backup",
+        "Elevator",
+        "Parking",
+        "Security"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/34/5d/d6/345dd63b15cf12d8dcf5b3c309f0e2a0.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Ravi Chandra",
+        "mobileNumber": "+91 99876 10222",
+        "address": "Flat 3C, Diamond Residency, Salt Lake, Kolkata, West Bengal, 700064"
+      }
+    },
+    {
+      "id": "76",
+      "name": "Classic 1BHK Apartment",
+      "type": "2BHK",
+      "price": 12000,
+      "priceDetails": {
+        "monthly": 12000,
+        "yearly": 144000
+      },
+      "size": "480 sqft",
+      "image": "https://i.pinimg.com/736x/a1/d7/9f/a1d79ff5a093b14bf33e55a9f865e6e0.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Close to market",
+        "Single bedroom",
+        "Compact kitchen",
+        "Affordable rent"
+      ],
+      "facilities": [
+        "WiFi",
+        "Maintenance",
+        "Security",
+        "Fan"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/da/ab/ef/daabefdafe3eb8e5c929d9c123a6fa77.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Nitin Goyal",
+        "mobileNumber": "+91 97654 20271",
+        "address": "Flat 1D, Golden Heights, Powai, Mumbai, Maharashtra, 400076"
+      }
+    },
+    {
+      "id": "77",
+      "name": "Spacious 2BHK Residency",
+      "type": "2BHK",
+      "price": 30000,
+      "priceDetails": {
+        "monthly": 30000,
+        "yearly": 360000
+      },
+      "size": "1,100 sqft",
+      "image": "https://i.pinimg.com/736x/77/62/67/776267808746b99ebcd61f9ce5795b03.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Two large bedrooms",
+        "Private balcony",
+        "Extra store room",
+        "High-end kitchen"
+      ],
+      "facilities": [
+        "WiFi",
+        "Parking",
+        "Lift",
+        "Power Backup",
+        "Security"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/cd/f3/b2/cdf3b2d1e23c01d38c54b97ce19f380d.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Deepika Rao",
+        "mobileNumber": "+91 90987 41671",
+        "address": "Plot 23, Green Valley Society, Pune, Maharashtra, 411001"
+      }
+    },
+    {
+      "id": "78",
+      "name": "Sunset Boulevard 3BHK",
+      "type": "2BHK",
+      "price": 42000,
+      "priceDetails": {
+        "monthly": 42000,
+        "yearly": 504000
+      },
+      "size": "1,480 sqft",
+      "image": "https://i.pinimg.com/736x/00/88/c2/0088c2dcb3388a1f12e8b5c3cefa8c3f.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Top-floor apartment",
+        "Three bedrooms with balconies",
+        "Luxurious interiors",
+        "Parking for two cars"
+      ],
+      "facilities": [
+        "Swimming Pool",
+        "Gym",
+        "WiFi",
+        "Concierge",
+        "Lift"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/1a/99/a5/1a99a5da3d846d45a8a7b8282db19e31.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Sanjay Mishra",
+        "mobileNumber": "+91 93210 72538",
+        "address": "Villa 78, Orchid Gardens, Jubilee Hills, Hyderabad, Telangana, 500033"
+      }
+    },
+    {
+      "id": "79",
+      "name": "Cosy Girls Shared PG",
+      "type": "Shared",
+      "price": 5800,
+      "priceDetails": {
+        "monthly": 5800,
+        "yearly": 69600
+      },
+      "size": "112 sqft",
+      "image": "https://i.pinimg.com/736x/4b/df/66/4bdf6610cdbb35f4a1384e6fabf2c4c5.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Girls only flat",
+        "Mess and laundry included",
+        "Study table for every bed",
+        "Friendly warden"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Hot water",
+        "Mess",
+        "Warden"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/2a/26/29/2a2629feae0a00a281f6b4fdabf71a86.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Amit Joshi",
+        "mobileNumber": "+91 97654 79617",
+        "address": "Flat No. 105, Sunrise Apartments, MG Road, Bangalore, Karnataka, 560001"
+      }
+    },
+    {
+      "id": "80",
+      "name": "Green Valley 1BHK",
+      "type": "2BHK",
+      "price": 15500,
+      "priceDetails": {
+        "monthly": 15500,
+        "yearly": 186000
+      },
+      "size": "610 sqft",
+      "image": "https://i.pinimg.com/736x/11/64/5d/11645d3b601193fe0a007817d5a26be6.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Garden view",
+        "Modern kitchen",
+        "Newly painted",
+        "Ideal for working professionals"
+      ],
+      "facilities": [
+        "WiFi",
+        "Garden",
+        "Parking",
+        "Security"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/ed/6d/7d/ed6d7d5fea2fa2fef1db5d74ad7c6432.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Nitin Goyal",
+        "mobileNumber": "+91 91098 62310",
+        "address": "Flat No. 105, Sunrise Apartments, MG Road, Bangalore, Karnataka, 560001"
+      }
+    },
+    {
+      "id": "81",
+      "name": "Executive 2BHK Flat",
+      "type": "2BHK",
+      "price": 31000,
+      "priceDetails": {
+        "monthly": 31000,
+        "yearly": 372000
+      },
+      "size": "1080 sqft",
+      "image": "https://i.pinimg.com/736x/74/e5/65/74e565691e4ddc220f7a839cbe2fa665.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Corporate zone location",
+        "Covered parking",
+        "Business lounge access",
+        "2 bathrooms"
+      ],
+      "facilities": [
+        "Parking",
+        "Lounge",
+        "WiFi",
+        "AC",
+        "Intercom"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/b8/32/84/b83284e421cf8cdaf07c2e2655ef60bb.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Ravi Chandra",
+        "mobileNumber": "+91 94321 90328",
+        "address": "House 34, Jasmine Park, Sector 22, Noida, Uttar Pradesh, 201301"
+      }
+    },
+    {
+      "id": "82",
+      "name": "Sunshine Shared Boys Room",
+      "type": "Shared",
+      "price": 5300,
+      "priceDetails": {
+        "monthly": 5300,
+        "yearly": 63600
+      },
+      "size": "108 sqft",
+      "image": "https://i.pinimg.com/736x/62/63/2b/62632b9a6d4430972099f593fc061c39.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Sunlit windows",
+        "Wardrobe for every bed",
+        "Transport closeby",
+        "Low cost"
+      ],
+      "facilities": [
+        "Fan",
+        "WiFi",
+        "Wardrobe",
+        "Laundry"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/f0/ab/2c/f0ab2c4b7a6cc1c6ce337d791413c6ba.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Madhuri Soni",
+        "mobileNumber": "+91 92109 52881",
+        "address": "House 23, Tulip Gardens, Vasant Kunj, Delhi, 110070"
+      }
+    },
+    {
+      "id": "83",
+      "name": "Sunrise 1BHK Residency",
+      "type": "2BHK",
+      "price": 18700,
+      "priceDetails": {
+        "monthly": 18700,
+        "yearly": 224400
+      },
+      "size": "570 sqft",
+      "image": "https://i.pinimg.com/736x/15/d2/4c/15d24c2a5238a11a11efe6f22ea690e8.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "East facing",
+        "Full window bedroom",
+        "AC and water purifier included"
+      ],
+      "facilities": [
+        "WiFi",
+        "AC",
+        "Water Purifier",
+        "Elevator"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/5b/e0/63/5be06383ba1f9a7bbcc25ef72c2550ad.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Vaishali Thakur",
+        "mobileNumber": "+91 95432 94430",
+        "address": "Plot 91, Sapphire Homes, Gachibowli, Hyderabad, Telangana, 500032"
+      }
+    },
+    {
+      "id": "84",
+      "name": "Deluxe Girls Shared",
+      "type": "Shared",
+      "price": 5900,
+      "priceDetails": {
+        "monthly": 5900,
+        "yearly": 70800
+      },
+      "size": "125 sqft",
+      "image": "https://i.pinimg.com/736x/e3/b0/88/e3b088f5db059058a77c608eb995b9cd.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Double sharing",
+        "All meals veg included",
+        "Central city"
+      ],
+      "facilities": [
+        "WiFi",
+        "Cook",
+        "Laundry",
+        "Security"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/ce/28/42/ce284241b1f0163232fb1c4981d5eb9f.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Meera Agarwal",
+        "mobileNumber": "+91 93210 46679",
+        "address": "Plot 23, Green Valley Society, Pune, Maharashtra, 411001"
+      }
+    },
+    {
+      "id": "86",
+      "name": "Shared PG",
+      "type": "Shared",
+      "price": 5713,
+      "priceDetails": {
+        "monthly": 5713,
+        "yearly": 68556
+      },
+      "size": "186 sqft",
+      "image": "https://i.pinimg.com/736x/9d/95/16/9d95160b35e5de8145ef2cb4e7f4a341.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Shared accommodation for students/professionals",
+        "Good sunlight and ventilation",
+        "Secure building with CCTV"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Cook"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/9d/95/16/9d95160b35e5de8145ef2cb4e7f4a341.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Pallavi Joshi",
+        "mobileNumber": "+91 92109 14635",
+        "address": "House 67, Rose Garden, Model Town, Delhi, 110009"
+      }
+    },
+    {
+      "id": "87",
+      "name": "Fresh Start Flats",
+      "type": "Shared",
+      "price": 7250,
+      "priceDetails": {
+        "monthly": 7250,
+        "yearly": 87000
+      },
+      "size": "106 sqft",
+      "image": "https://i.pinimg.com/736x/9d/95/16/9d95160b35e5de8145ef2cb4e7f4a341.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Shared accommodation for students/professionals",
+        "Good sunlight and ventilation",
+        "Maintained by in-house team"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Cook"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/9d/95/16/9d95160b35e5de8145ef2cb4e7f4a341.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Ajay Dubey",
+        "mobileNumber": "+91 97654 17304",
+        "address": "Flat 4D, Ruby Complex, Park Street, Kolkata, West Bengal, 700016"
+      }
+    },
+    {
+      "id": "88",
+      "name": "The Cozy Cubicle",
+      "type": "1BHK",
+      "price": 15458,
+      "priceDetails": {
+        "monthly": 15458,
+        "yearly": 185496
+      },
+      "size": "631 sqft",
+      "image": "https://i.pinimg.com/736x/27/99/a2/2799a2562584f8b5b929e21e8e602777.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious 1BHK with modern amenities",
+        "Good sunlight and ventilation",
+        "Secure building with CCTV"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/27/99/a2/2799a2562584f8b5b929e21e8e602777.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Deepak Singh",
+        "mobileNumber": "+91 91098 47072",
+        "address": "House 23, Tulip Gardens, Vasant Kunj, Delhi, 110070"
+      }
+    },
+    {
+      "id": "89",
+      "name": "Zen Den",
+      "type": "1BHK",
+      "price": 13245,
+      "priceDetails": {
+        "monthly": 13245,
+        "yearly": 158940
+      },
+      "size": "602 sqft",
+      "image": "https://i.pinimg.com/736x/27/99/a2/2799a2562584f8b5b929e21e8e602777.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious 1BHK with modern amenities",
+        "Good sunlight and ventilation",
+        "Secure building with CCTV"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/27/99/a2/2799a2562584f8b5b929e21e8e602777.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Suresh Nair",
+        "mobileNumber": "+91 98765 52701",
+        "address": "Apartment 4C, Sky View Towers, Bandra East, Mumbai, Maharashtra, 400051"
+      }
+    },
+    {
+      "id": "90",
+      "name": "Chic Chambers",
+      "type": "2BHK",
+      "price": 23534,
+      "priceDetails": {
+        "monthly": 23534,
+        "yearly": 282408
+      },
+      "size": "946 sqft",
+      "image": "https://i.pinimg.com/736x/88/37/ae/8837ae2bff56d0674b2aac12b7268e57.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious 2BHK with modern amenities",
+        "Close to transit/metro",
+        "Maintained by in-house team"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/88/37/ae/8837ae2bff56d0674b2aac12b7268e57.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Priya Sharma",
+        "mobileNumber": "+91 98765 87528",
+        "address": "House 34, Jasmine Park, Sector 22, Noida, Uttar Pradesh, 201301"
+      }
+    },
+    {
+      "id": "91",
+      "name": "The Snug Spot",
+      "type": "3BHK",
+      "price": 38463,
+      "priceDetails": {
+        "monthly": 38463,
+        "yearly": 461556
+      },
+      "size": "1446 sqft",
+      "image": "https://i.pinimg.com/736x/43/32/34/433234c5fc564372885879ceecb5ec8e.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious 3BHK with modern amenities",
+        "Good sunlight and ventilation",
+        "Secure building with CCTV"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/43/32/34/433234c5fc564372885879ceecb5ec8e.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Sanjay Mishra",
+        "mobileNumber": "+91 90987 33812",
+        "address": "Plot 89, Emerald City, Whitefield, Bangalore, Karnataka, 560066"
+      }
+    },
+    {
+      "id": "92",
+      "name": "Solo Suite",
+      "type": "Shared",
+      "price": 7801,
+      "priceDetails": {
+        "monthly": 7801,
+        "yearly": 93612
+      },
+      "size": "91 sqft",
+      "image": "https://i.pinimg.com/736x/9d/95/16/9d95160b35e5de8145ef2cb4e7f4a341.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Shared accommodation for students/professionals",
+        "Good sunlight and ventilation",
+        "Secure building with CCTV"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Cook"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/9d/95/16/9d95160b35e5de8145ef2cb4e7f4a341.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Rashmi Bhatt",
+        "mobileNumber": "+91 95432 35850",
+        "address": "Apartment 1A, Opal Heights, Malad West, Mumbai, Maharashtra, 400064"
+      }
+    },
+    {
+      "id": "93",
+      "name": "Comfy Cove",
+      "type": "1BHK",
+      "price": 17959,
+      "priceDetails": {
+        "monthly": 17959,
+        "yearly": 215508
+      },
+      "size": "629 sqft",
+      "image": "https://i.pinimg.com/736x/27/99/a2/2799a2562584f8b5b929e21e8e602777.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious 1BHK with modern amenities",
+        "Good sunlight and ventilation",
+        "Maintained by in-house team"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/27/99/a2/2799a2562584f8b5b929e21e8e602777.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Shweta Saxena",
+        "mobileNumber": "+91 99876 24897",
+        "address": "Plot 91, Sapphire Homes, Gachibowli, Hyderabad, Telangana, 500032"
+      }
+    },
+    {
+      "id": "94",
+      "name": "Pure Comfort",
+      "type": "3BHK",
+      "price": 40061,
+      "priceDetails": {
+        "monthly": 40061,
+        "yearly": 480732
+      },
+      "size": "1398 sqft",
+      "image": "https://i.pinimg.com/736x/43/32/34/433234c5fc564372885879ceecb5ec8e.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious 3BHK with modern amenities",
+        "Good sunlight and ventilation",
+        "Secure building with CCTV"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/43/32/34/433234c5fc564372885879ceecb5ec8e.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Rajesh Kumar",
+        "mobileNumber": "+91 97654 19947",
+        "address": "Flat No. 105, Sunrise Apartments, MG Road, Bangalore, Karnataka, 560001"
+      }
+    },
+    {
+      "id": "95",
+      "name": "Nest Away",
+      "type": "Shared",
+      "price": 7865,
+      "priceDetails": {
+        "monthly": 7865,
+        "yearly": 94380
+      },
+      "size": "218 sqft",
+      "image": "https://i.pinimg.com/736x/9d/95/16/9d95160b35e5de8145ef2cb4e7f4a341.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Shared accommodation for students/professionals",
+        "Close to transit/metro",
+        "Secure building with CCTV"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Cook"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/9d/95/16/9d95160b35e5de8145ef2cb4e7f4a341.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Sachin Yadav",
+        "mobileNumber": "+91 92109 24812",
+        "address": "Plot 23, Green Valley Society, Pune, Maharashtra, 411001"
+      }
+    },
+    {
+      "id": "96",
+      "name": "Urban Oasis",
+      "type": "3BHK",
+      "price": 42062,
+      "priceDetails": {
+        "monthly": 42062,
+        "yearly": 504744
+      },
+      "size": "1451 sqft",
+      "image": "https://i.pinimg.com/736x/43/32/34/433234c5fc564372885879ceecb5ec8e.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious 3BHK with modern amenities",
+        "Good sunlight and ventilation",
+        "Maintained by in-house team"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/43/32/34/433234c5fc564372885879ceecb5ec8e.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Neha Jain",
+        "mobileNumber": "+91 92109 50684",
+        "address": "Flat 3C, Diamond Residency, Salt Lake, Kolkata, West Bengal, 700064"
+      }
+    },
+    {
+      "id": "97",
+      "name": "Pocket Place",
+      "type": "1BHK",
+      "price": 17974,
+      "priceDetails": {
+        "monthly": 17974,
+        "yearly": 215688
+      },
+      "size": "572 sqft",
+      "image": "https://i.pinimg.com/736x/27/99/a2/2799a2562584f8b5b929e21e8e602777.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious 1BHK with modern amenities",
+        "Good sunlight and ventilation",
+        "Secure building with CCTV"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/27/99/a2/2799a2562584f8b5b929e21e8e602777.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Rohit Verma",
+        "mobileNumber": "+91 99876 15173",
+        "address": "House 56, Marigold Society, Aundh, Pune, Maharashtra, 411007"
+      }
+    },
+    {
+      "id": "98",
+      "name": "The Little Haven",
+      "type": "Shared",
+      "price": 6465,
+      "priceDetails": {
+        "monthly": 6465,
+        "yearly": 77580
+      },
+      "size": "115 sqft",
+      "image": "https://i.pinimg.com/736x/9d/95/16/9d95160b35e5de8145ef2cb4e7f4a341.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Shared accommodation for students/professionals",
+        "Good sunlight and ventilation",
+        "Secure building with CCTV"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Cook"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/9d/95/16/9d95160b35e5de8145ef2cb4e7f4a341.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Sunita Gupta",
+        "mobileNumber": "+91 93210 45003",
+        "address": "Villa 12, Palm Grove, Electronic City, Bangalore, Karnataka, 560100"
+      }
+    },
+    {
+      "id": "99",
+      "name": "Sunny Studio",
+      "type": "2BHK",
+      "price": 27743,
+      "priceDetails": {
+        "monthly": 27743,
+        "yearly": 332916
+      },
+      "size": "1016 sqft",
+      "image": "https://i.pinimg.com/736x/88/37/ae/8837ae2bff56d0674b2aac12b7268e57.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious 2BHK with modern amenities",
+        "Good sunlight and ventilation",
+        "Maintained by in-house team"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/88/37/ae/8837ae2bff56d0674b2aac12b7268e57.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Divya Chopra",
+        "mobileNumber": "+91 97654 40646",
+        "address": "Flat 2A, Silver Oak Residency, Koramangala, Bangalore, Karnataka, 560034"
+      }
+    },
+    {
+      "id": "100",
+      "name": "The Compact Cottage",
+      "type": "Shared",
+      "price": 8062,
+      "priceDetails": {
+        "monthly": 8062,
+        "yearly": 96744
+      },
+      "size": "172 sqft",
+      "image": "https://i.pinimg.com/736x/9d/95/16/9d95160b35e5de8145ef2cb4e7f4a341.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Shared accommodation for students/professionals",
+        "Close to transit/metro",
+        "Secure building with CCTV"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Cook"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/9d/95/16/9d95160b35e5de8145ef2cb4e7f4a341.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Gaurav Sharma",
+        "mobileNumber": "+91 90987 87369",
+        "address": "Flat 3C, Diamond Residency, Salt Lake, Kolkata, West Bengal, 700064"
+      }
+    },
+    {
+      "id": "101",
+      "name": "Blissful Bay",
+      "type": "1BHK",
+      "price": 15432,
+      "priceDetails": {
+        "monthly": 15432,
+        "yearly": 185184
+      },
+      "size": "596 sqft",
+      "image": "https://i.pinimg.com/736x/27/99/a2/2799a2562584f8b5b929e21e8e602777.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious 1BHK with modern amenities",
+        "Good sunlight and ventilation",
+        "Secure building with CCTV"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/27/99/a2/2799a2562584f8b5b929e21e8e602777.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Anil Kumar",
+        "mobileNumber": "+91 95432 79267",
+        "address": "Flat 4D, Ruby Complex, Park Street, Kolkata, West Bengal, 700016"
+      }
+    },
+    {
+      "id": "102",
+      "name": "Quiet Quarters",
+      "type": "2BHK",
+      "price": 24635,
+      "priceDetails": {
+        "monthly": 24635,
+        "yearly": 295620
+      },
+      "size": "924 sqft",
+      "image": "https://i.pinimg.com/736x/78/6c/83/786c835c6de98774d7b9f2e7fce3f101.jpg",
+      "isAvailable": false,
+      "descriptionPoints": [
+        "Spacious 2BHK with modern amenities",
+        "Good sunlight and ventilation",
+        "Maintained by in-house team"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/bd/b0/3d/bdb03dae62a4fba004cc28d8703ef497.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/eb/8c/5a/eb8c5af90ade2ec35364b6e8ccde6e0f.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/af/49/e6/af49e6276c05a0bf2428a107308fcfef.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Sunita Gupta",
+        "mobileNumber": "+91 91098 46293",
+        "address": "House No. 45, Lotus Colony, Sector 15, Gurgaon, Haryana, 122001"
+      }
+    },
+    {
+      "id": "103",
+      "name": "The Mini Loft",
+      "type": "1BHK",
+      "price": 16053,
+      "priceDetails": {
+        "monthly": 16053,
+        "yearly": 192636
+      },
+      "size": "568 sqft",
+      "image": "https://i.pinimg.com/736x/7a/36/0d/7a360da6d2be13fe58bcf15052bdbad9.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious 1BHK with modern amenities",
+        "Good sunlight and ventilation",
+        "Secure building with CCTV"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/c7/5f/fb/c75ffbcf6662814a4b29349dd3770b44.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/45/b0/30/45b030184fe966f6d0dff534e02fff9f.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/93/11/65/931165b7c9d74b0505b6203027ab595a.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Mr. Gaurav Sharma",
+        "mobileNumber": "+91 90987 86473",
+        "address": "Plot 23, Green Valley Society, Pune, Maharashtra, 411001"
+      }
+    },
+    {
+      "id": "104",
+      "name": "Simple Spaces",
+      "type": "3BHK",
+      "price": 42878,
+      "priceDetails": {
+        "monthly": 42878,
+        "yearly": 514536
+      },
+      "size": "1407 sqft",
+      "image": "https://i.pinimg.com/736x/34/a8/42/34a8420db2496cf8bfa449eb1e4e1566.jpg",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious 3BHK with modern amenities",
+        "Good sunlight and ventilation",
+        "Secure building with CCTV"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/1d/78/29/1d7829f70ff74da5886d99710630b650.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/87/87/2d/87872d1175d41dc60de5cf8d50065e82.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/8a/17/ad/8a17ad0682bbf403c6221946f697d4d5.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Madhuri Soni",
+        "mobileNumber": "+91 97654 88596",
+        "address": "Apartment 3B, Royal Heights, Andheri West, Mumbai, Maharashtra, 400058"
+      }
+    },
+    {
+      "id": "105",
+      "name": "Cozy Nook",
+      "type": "1BHK",
+      "price": 14959,
+      "priceDetails": {
+        "monthly": 14959,
+        "yearly": 179508
+      },
+      "size": "644 sqft",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-vgGrms-mLPjevI6_gkw6X4CXbs4IUcYHhw&s",
+      "isAvailable": true,
+      "descriptionPoints": [
+        "Spacious 1BHK with modern amenities",
+        "Close to transit/metro",
+        "Maintained by in-house team"
+      ],
+      "facilities": [
+        "WiFi",
+        "Laundry",
+        "Security",
+        "Parking"
+      ],
+      "images": [
+        {
+          "url": "https://i.pinimg.com/736x/15/a5/f6/15a5f6114d38c8feae8632837a43fcd1.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/ef/90/57/ef90573f00ecc1d10a068ebb13ec3f4d.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/f6/b9/38/f6b938104c12937fa5da81e4580949ca.jpg"
+        }
+      ],
+      "contact": {
+        "brokerName": "Ms. Sneha Kulkarni",
+        "mobileNumber": "+91 99876 34412",
+        "address": "House 67, Rose Garden, Model Town, Delhi, 110009"
+      }
+    }
+  ]
+}

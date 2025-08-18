@@ -1,0 +1,40 @@
+<!-- Video Background -->
+<video autoplay muted loop playsinline class="bg-video">
+  <source src="https://videos.pexels.com/video-files/7578552/7578552-uhd_3840_2160_30fps.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
+<!-- Welcome Heading -->
+<div class="welcome-overlay">
+  <h1 class="project-title">Welcome to <span>FlatBee</span></h1>
+  <p class="tagline">Find your dream flat or room with ease</p>
+</div>
+
+<!-- Main Content -->
+<div class="auth-container">
+  <!-- LOGIN -->
+  <div *ngIf="showFirstDiv" class="page-wrapper">
+    <div class="main">
+      <h1>Login</h1>
+      <input [(ngModel)]="LoginPage.username" placeholder="Username/Full Name" />
+      <input [(ngModel)]="LoginPage.password" type="password" placeholder="Password" />
+      <button (click)="login()">Login</button>
+      <p [ngClass]="{'success': message.startsWith('✅')}">{{message}}</p>
+      <p class="m">Don't have account? <span class="n" (click)="signup()">Sign up</span></p>
+    </div>
+  </div>
+
+  <!-- SIGNUP -->
+  <div *ngIf="!showFirstDiv" class="page-wrapper">
+    <div class="main">
+      <h1>Sign Up</h1>
+      <input [(ngModel)]="SignUp.Fullname" placeholder="Full Name" />
+      <input [(ngModel)]="SignUp.Email" placeholder="Email" />
+      <input [(ngModel)]="SignUp.passwordd" type="password" placeholder="Password" />
+      <input [(ngModel)]="SignUp.Cpasswordd" type="password" placeholder="Confirm Password" />
+      <button (click)="signUp()">Sign Up</button>
+      <p [ngClass]="{'success': message.startsWith('✅')}">{{message}}</p>
+      <p class="m">Already have account? <span class="n" (click)="Login()">Login</span></p>
+    </div>
+  </div>
+</div>

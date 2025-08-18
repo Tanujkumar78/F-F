@@ -1,0 +1,21 @@
+<div class="header">
+  <div class="logo">
+    <h3 (click)='Flatbeeclick()' class="FlatBee">FlatBee</h3>
+  </div>
+
+  <div class="hamburger-menu" (click)="toggleMenu()">
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+
+  <div class="header_container" [ngClass]="{'open': isMenuOpen}">
+    <p  (click)="toFeatures()" [ngClass]="{ 'active-link': currentRoute === '/About', 'about_btn': true }" class="contact_btn">Features</p>
+    <p (click)="toContactus()" class="contact_btn">Contact-us</p>
+    <p class="about_btn" (click)="toAbout()">About</p>
+    <p class="about_btn" (click)="toprofile()">Profile</p>
+    <div class="logout_btn">
+      <button class="explore-btn" (click)="back()">Logout</button>
+    </div>
+  </div>
+</div>
