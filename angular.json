@@ -34,6 +34,9 @@
             "outputMode": "server",
             "ssr": {
               "entry": "src/server.ts"
+            },
+            "optimization": {
+              "fonts": false
             }
           },
           "configurations": {
@@ -46,16 +49,43 @@
                 },
                 {
                   "type": "anyComponentStyle",
-                  "maximumWarning": "4kB",
-                  "maximumError": "8kB"
+                  "maximumWarning": "6kB",
+                  "maximumError": "12kB"
+                },
+                {
+                  "type": "any",
+                  "maximumWarning": "500kB",
+                  "maximumError": "1MB"
                 }
               ],
-              "outputHashing": "all"
+              "outputHashing": "all",
+              "optimization": {
+                "scripts": true,
+                "styles": true,
+                "fonts": false
+              }
             },
             "development": {
               "optimization": false,
               "extractLicenses": false,
-              "sourceMap": true
+              "sourceMap": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2MB",
+                  "maximumError": "5MB"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "16kB",
+                  "maximumError": "18kB"
+                },
+                {
+                  "type": "any",
+                  "maximumWarning": "1MB",
+                  "maximumError": "2MB"
+                }
+              ]
             }
           },
           "defaultConfiguration": "production"

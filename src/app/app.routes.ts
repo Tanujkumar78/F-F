@@ -19,6 +19,6 @@ export const routes: Routes = [
     {path:"Contact-us",component:ContactUsComponent},
     {path:"Features",component:FeaturesComponent},
      {path:"prof",component:ProfileComponent},
-     { path: 'room/:id', component: RoomDetailComponent }
+     { path: 'room', component: RoomDetailComponent }
 
 ]
