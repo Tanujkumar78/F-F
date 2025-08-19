@@ -29,10 +29,10 @@ export class TaskmanagerService {
   constructor(private http: HttpClient) {}
 
   signup(data: any): Observable<any> {
-    return this.http.post(`${this.apiUrl}/signup`, data);
+    return this.http.post(`${this.apiUrl}/signup`, data, {withCredentials: true});
   }
 
   login(data: any): Observable<any> {
-    return this.http.post(`${this.apiUrl}/login`, data);
+    return this.http.post(`${this.apiUrl}/login`, data, {withCredentials: true});
   }
 }
