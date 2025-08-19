@@ -27,7 +27,7 @@ export class RoomDetailComponent implements OnInit {
   notificationType = '';
 
   // Make sure to use consistent API URL
-  private readonly API_BASE_URL = 'http://localhost:8000'; // Change this to match your backend
+  private readonly API_BASE_URL = 'https://db-json-9gqz.onrender.com'; // Change this to match your backend
 
   constructor(
     private route: ActivatedRoute,

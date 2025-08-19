@@ -45,7 +45,7 @@ export class ProductsComponent implements OnInit {
 
   loadRooms() {
     this.isLoading = true;
-    this.http.get<any[]>('http://localhost:8000/Rooms')
+    this.http.get<any[]>('https://db-json-9gqz.onrender.com')
       .subscribe({
         next: (data) => { 
           this.rooms = data;
