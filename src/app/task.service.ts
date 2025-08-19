@@ -25,7 +25,7 @@ export class TaskService {
   // }
 
 
-private apiUrl = 'https://f-b.onrender.com/';
+private apiUrl = 'https://f-b.onrender.com/auth';
   http: any;
 
 signup(data: any): Observable<any> {
