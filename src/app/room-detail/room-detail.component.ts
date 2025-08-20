@@ -27,7 +27,7 @@ export class RoomDetailComponent implements OnInit {
   notificationType = '';
 
   // Make sure to use consistent API URL
-  private readonly API_BASE_URL = 'https://db-json-9gqz.onrender.com/Rooms'; // Change this to match your backend
+  private readonly API_BASE_URL = 'https://db-json-9gqz.onrender.com/Rooms/'; // Change this to match your backend
 
   constructor(
     private route: ActivatedRoute,
@@ -62,9 +62,9 @@ export class RoomDetailComponent implements OnInit {
   }
 
   /** Load room data from API */
-  private loadRoom(id: string): void {
+  private loadRoom(id: any): void {
     this.isLoading = true;
-    this.http.get(`${this.API_BASE_URL}/Rooms/${id}`).subscribe({
+    this.http.get(`${this.API_BASE_URL}/${id}`).subscribe({
       next: (data) => {
         this.room = data;
         this.isLoading = false;

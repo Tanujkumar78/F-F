@@ -13,6 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
+            "prerender": false,
             "outputPath": "dist/form-task",
             "index": "src/index.html",
             "browser": "src/main.ts",
@@ -31,7 +32,6 @@
             ],
             "scripts": [],
             "server": "src/main.server.ts",
-            "outputMode": "server",
             "ssr": {
               "entry": "src/server.ts"
             },
@@ -39,6 +39,7 @@
               "fonts": false
             }
           },
+          "outputMode": "server", 
           "configurations": {
             "production": {
               "budgets": [
